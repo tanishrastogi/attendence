@@ -119,9 +119,9 @@ app.post("/attendence" , function(req,res){
     let d3 = d.getFullYear();
     let d4 = d1+"-"+d2+"-"+d;
     
-    attendenceDate = d.toLocaleDateString("en-us" , Options);
+     let attendenceDate = d.toLocaleDateString("en-us" , Options);
 
-   // console.log(attendenceDate);
+   console.log(attendenceDate);
 
 
     date.findOneAndUpdate({_id:"1"} , {$push:{date:attendenceDate , hiddenDate:d4,rajinder:objValue[0] , Abhishek_Pal:objValue[1] , Abhishek_Gupta:objValue[2] , Pawan:objValue[3] , Prabhu:objValue[4] , Manoj:objValue[5] }} , function(err , foundList){
