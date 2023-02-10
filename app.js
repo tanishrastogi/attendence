@@ -105,7 +105,8 @@ app.post("/attendence" , function(req,res){
     let Options = {
         day:"numeric",
         month:"short",
-        year:"2-digit"
+        year:"2-digit",
+        timezone:"Asia/Kolata"
     } 
     let d1 =  d.getDate();
     if(d1<10){
@@ -116,9 +117,9 @@ app.post("/attendence" , function(req,res){
         d2 = "0"+d2;
     }
     let d3 = d.getFullYear();
-    let d4 = d1+"-"+d2+"-"+d3;
+    let d4 = d1+"-"+d2+"-"+d;
     
-    attendenceDate = d4;
+    attendenceDate = d.toLocaleDateString("en-us" , Options);
 
    // console.log(attendenceDate);
 
