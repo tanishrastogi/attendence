@@ -7,7 +7,7 @@ const mongoose = require("mongoose");
 
 
 mongoose.set("strictQuery" , false);
-mongoose.connect("mongodb://127.0.0.1/attendenceDB");
+mongoose.connect("mongodb+srv://MONGO:8896483413@atlascluster.ofjjvzm.mongodb.net/todoListDB");
 
 let Rajinder = [];
 let Manoj = [];
