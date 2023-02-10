@@ -1,0 +1,63 @@
+<%- include("partials/header.ejs") -%>
+<div class="box" id="heading">
+    <h1 >Mark the Attendence for <%= date %></h1>
+</div>
+<form action="/attendence" method="post">
+
+    <div class="names">
+
+        <form action="/attendence" method="post">
+            <table>
+                <tr>
+                    
+                        <td><h3 class="headings">Employee Name</h3></td>
+                        <td><h3 class="headings">Present</h3></td>
+                        <td><h3 class="headings">Absent</h3></td>
+                        <td><h3 class="headings">Timings</h3></td>
+                    
+                </tr>
+                <tr>
+                    <td><p>Rajinder</p></td>
+                    <td><input type="radio" class="enableDisable radioInput" value="present" name="Rajinder" id="present" required></td>
+                    <td><input type="radio" value="absent" name="Rajinder" id="absent"  class="deactivate"></td>
+                    <td><input type="time" class="enableDisable deactivate time radioInput" name="Rajinder" id="timing"     ></td>
+                </tr>
+                <tr>
+                    <td><p>Abhishek Pal</p></td>
+                    <td><input type="radio" value="present" class="radioInput"  name="Abhishek-Pal" id="present" required ></td>
+                    <td><input type="radio" value="absent" name="Abhishek-Pal" id="absent" class="deactivate"></td>
+                    <td><input type="time" name="Abhishek-Pal" id="timing" class="radioInput time deactivate"></td>
+                </tr>
+                <tr>
+                    <td><p>Abhishek Gupta</p></td>
+                    <td><input type="radio" value="present" name="Abhishek-Gupta" class="radioInput" id="present" required></td>
+                    <td><input type="radio" value="absent" name="Abhishek-Gupta" id="absent" class="deactivate"></td>
+                    <td><input type="time" name="Abhishek-Gupta" id="timing" class="radioInput deactivate time" ></td>
+                </tr>
+                <tr>
+                    <td><p>Pawan</p></td>
+                    <td><input type="radio" value="present" class="radioInput" name="Pawan" id="present" required></td>
+                    <td><input type="radio" value="absent" name="Pawan"  id="absent" class="deactivate"></td>
+                    <td><input type="time" name="Pawan" id="timing"  class="radioInput time deactivate"></td>
+                </tr>
+                <tr>
+                    <td><p>Prabhu</p></td>
+                    <td><input type="radio" value="present" name="Prabhu" id="present" class="radioInput" required></td>
+                    <td><input type="radio" value="absent" name="Prabhu" id="absent" class="deactivate"></td>
+                    <td><input type="time" name="Prabhu" id="timing" class="radioInput time deactivate"></td>
+                </tr>
+                <tr>
+                    <td><p>Manoj</p></td>
+                    <td><input type="radio" value="present" name="Manoj" id="present" class="radioInput" required></td>
+                    <td><input type="radio" value="absent" name="Manoj" id="absent" class="deactivate"></td>
+                    <td><input type="time"  name="Manoj" id="timing"  class="radioInput time deactivate"></td>
+                </tr>
+
+            </table>
+            <button class="btn btn-primary" type="submit">Submit</button>
+        </form>
+    </div>
+</form>
+
+<script src="script.js"></script>
+<%-include("partials/footer.ejs") -%>

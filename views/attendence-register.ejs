@@ -1,0 +1,82 @@
+<%- include("partials/header.ejs") -%>
+<div class="box1">
+<table>
+    <tr>
+        <td class="name"><h3>Employee Name</h3></td>
+        <%for(let i=0;i<date.length;i++){%>
+        <td><h3><%=date[i]%></h3></td>
+        <%}%>
+    </tr>
+    <tr>
+        <th>Rajinder</th>
+        <%for(let i=0;i<Rajinder.length;i++){%>
+        <td><%= Rajinder[i] %></td>
+        <%}%>
+    </tr>
+    <tr>
+        <th>Abhishek Pal</th>
+        <%for(let i=0;i<Abhishek_Pal.length;i++){%>
+        <td><%= Abhishek_Pal[i] %></td>
+        <%}%>
+    </tr>
+    <tr>
+        <th>Abhishek Gupta</th>
+        <%for(let i=0;i<Abhishek_Gupta.length;i++){%>
+        <td><%= Abhishek_Gupta[i] %></td>
+        <%}%>
+    </tr>
+    <tr>
+        <th>Pawan</th>
+        <%for(let i=0;i<Pawan.length;i++){%>
+        <td><%= Pawan[i] %></td>
+        <%}%>
+    </tr>
+    <tr>
+        <th>Prabhu</th>
+        <%for(let i=0;i<Prabhu.length;i++){%>
+        <td><%= Prabhu[i] %></td>
+        <%}%>
+    </tr>
+    <tr>
+        <th>Manoj</th>
+        <%for(let i=0;i<Manoj.length;i++){%>
+        <td><%= Manoj[i] %></td>
+        <%}%>
+    </tr>
+    
+    
+</table>
+</div>
+<style>
+    .box1 {
+    max-width: fit-content;
+    margin: 5px auto;
+    padding: 2px 20px;
+    background: rgba(26, 188, 156 ,0.1 );
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+    overflow-x: scroll;
+  }
+
+td , th{
+    padding: 10px;
+}
+
+::-webkit-scrollbar {
+  width: 100px;
+  /* color: aliceblue; */
+}
+::-webkit-scrollbar-track {
+    background: rgba(26, 188, 156 ,0.1 );
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(26, 188, 156 ,0.3);
+}
+
+
+
+
+
+</style>
+<%- include("partials/footer.ejs") -%>
