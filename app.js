@@ -24,7 +24,8 @@ let options = {
     weekday: "long",
     day: "numeric",
     month:"short", 
-    year:"numeric"
+    year:"numeric",
+    timezone:"Asia/Kolata"
 }
 todaysDate = todaysDate.toLocaleDateString("en-us" , options);
 
