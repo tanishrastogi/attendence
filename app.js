@@ -7,9 +7,16 @@ const mongoose = require("mongoose");
 
 
 mongoose.set("strictQuery" , false);
-mongoose.connect("mongodb+srv://MONGO:8896483413@atlascluster.ofjjvzm.mongodb.net/attendenceDB");
+mongoose.connect("mongodb://127.0.0.1/attendenceDB");
 
-let Rajinder,Manoj,Prabhu,dates,Abhishek_pal,Abhishek_Gupta,Pawan;
+let Rajinder = [];
+let Manoj = [];
+let Abhishek_pal= [];
+let Abhishek_Gupta = [];
+let Pawan = [];
+let Prabhu = [];
+let dates = [];
+
 
 
 const app = express();
@@ -127,12 +134,12 @@ app.post("/attendence" , function(req,res){
 
     date.findOneAndUpdate({_id:"1"} , {$push:{date:attendenceDate , hiddenDate:d4,rajinder:objValue[0] , Abhishek_Pal:objValue[1] , Abhishek_Gupta:objValue[2] , Pawan:objValue[3] , Prabhu:objValue[4] , Manoj:objValue[5] }} , function(err , foundList){
         // console.log(foundList);
+        res.redirect("/attendence-register");
     })
     
     
     
     
-    res.redirect("/attendence-register");
      
 
 })
