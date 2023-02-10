@@ -116,9 +116,9 @@ app.post("/attendence" , function(req,res){
         d2 = "0"+d2;
     }
     let d3 = d.getFullYear();
-    let d4 = d3+"-"+d2+"-"+d1;
+    let d4 = d1+"-"+d2+"-"+d3;
     
-    attendenceDate = d.toLocaleDateString("en-us" , Options);
+    attendenceDate = d4;
 
    // console.log(attendenceDate);
 
