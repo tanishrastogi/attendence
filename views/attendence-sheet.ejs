@@ -1,12 +1,12 @@
 <%- include("partials/header.ejs") -%>
 <div class="box" id="heading">
-    <h1 >Mark the Attendence for <%= date %></h1>
+    <form action="/attendence" method="post">
+    <h1 >Mark the Attendence for <input name="Date" value="<%= date%>" type="date" required></h1>
 </div>
-<form action="/attendence" method="post">
-
-    <div class="names">
-
-        <form action="/attendence" method="post">
+<div class="names">
+    
+    <form action="/attendence" method="post">
+            <!-- <input type="text" value="<%= date %>" name="test"> -->
             <table>
                 <tr>
                     

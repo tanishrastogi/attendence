@@ -8,7 +8,7 @@ const mongoose = require("mongoose");
 
 mongoose.set("strictQuery" , false);
 mongoose.connect("mongodb+srv://MONGO:8896483413@atlascluster.ofjjvzm.mongodb.net/todoListDB");
-
+// mongoose.connect("mongodb://127.0.0.1/attendenceDB");
 let Rajinder = [];
 let Manoj = [];
 let Abhishek_pal= [];
@@ -125,14 +125,14 @@ app.post("/attendence" , function(req,res){
         d2 = "0"+d2;
     }
     let d3 = d.getFullYear();
-    let d4 = d1+"-"+d2+"-"+d;
+    let d4 = d1+"-"+d2+"-"+d3;
     
-     let attendenceDate = d.toLocaleDateString("en-us" , Options);
+    //  let attendenceDate = d.toLocaleDateString("en-us" , Options);
 
-   console.log(attendenceDate);
+//    console.log(req.body.test);
 
 
-    date.findOneAndUpdate({_id:"1"} , {$push:{date:attendenceDate , hiddenDate:d4,rajinder:objValue[0] , Abhishek_Pal:objValue[1] , Abhishek_Gupta:objValue[2] , Pawan:objValue[3] , Prabhu:objValue[4] , Manoj:objValue[5] }} , function(err , foundList){
+    date.findOneAndUpdate({_id:"1"} , {$push:{date:(req.body.Date) , hiddenDate:d4,rajinder:objValue[1] , Abhishek_Pal:objValue[2] , Abhishek_Gupta:objValue[3] , Pawan:objValue[4] , Prabhu:objValue[5] , Manoj:objValue[6] }} , function(err , foundList){
         // console.log(foundList);
         res.redirect("/attendence-register");
     })

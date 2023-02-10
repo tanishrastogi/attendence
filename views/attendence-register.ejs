@@ -3,7 +3,7 @@
 <table>
     <tr>
         <td class="name"><h3>Employee Name</h3></td>
-        <%for(let i=0;i<6;i++){%>
+        <%for(let i=0;i<date.length;i++){%>
         <td><h3><%=date[i]%></h3></td>
         <%}%>
     </tr>
@@ -44,9 +44,10 @@
         <%}%>
     </tr>
     
-    
 </table>
 </div>
+<center><b>*date is in yyyy/mmm/dd format*</b>
+</center>
 <style>
     .box1 {
     max-width: fit-content;
