@@ -1,802 +1,874 @@
-SUNNY AGENCIES	SUNNY AGENCIES	SUNNY AGENCIES	SUNNY AGENCIES
-LG-30/31, NEW MEDICNE MARKET	LG-30/31, NEW MEDICNE MARKET	LG-30/31, NEW MEDICNE MARKET	LG-30/31, NEW MEDICNE MARKET
-G.B. MARG,LUCKNOW	G.B. MARG,LUCKNOW	G.B. MARG,LUCKNOW	G.B. MARG,LUCKNOW
-                               (As On : 31/Mar/2023)                                	                               (As On : 31/Mar/2023)                                	                               (As On : 31/Mar/2023)                                	                               (As On : 31/Mar/2023)                                
-Closing Balances                                                   Page No. :      1	Closing Balances                                                   Page No. :      1	Closing Balances                                                   Page No. :      1	Closing Balances                                                   Page No. :      1
-Account                                        	Group               	   Closing(Dr)	   Closing(Cr)
-32 MEDICINE POINT                              	Customers Sundry Deb	              	2.00
-A.C.DISTRIBUTORS                               	Supplier Sundry Cred	              	95619.00
-A.R.J HOSPITAL                                 	Customers Sundry Deb	       4265.00	              
-A/C DIFF                                       	Misc. Expenses (ASSE	     355780.00	              
-ABHISHEK MEDICAL STORE-1                       	Customers Sundry Deb	       4530.00	              
-ABHISHEK MEDICAL STORE-2                       	Customers Sundry Deb	       3496.00	              
-ACHARYA ENTERPRISES                            	Customers Sundry Deb	              	104002.00
-ADARSH AGENCIES 555                            	Supplier Sundry Cred	              	6800.00
-ADARSH MEDICAL STORE                           	Customers Sundry Deb	              	319.00
-Add Amt                                        	Suspense A/c        	              	1631.52
-ADIL MEDICAL AGENCY                            	Customers Sundry Deb	      27741.00	              
-ADJESTMENT                                     	Misc. Expenses (ASSE	              	77600.00
-ADJESTMENT BLUE CROSS SANJAY                   	Customers Sundry Deb	              	530778.00
-ADJUSTMENT BLUE CROSS                          	Misc. Expenses (ASSE	              	66009.00
-ADJUSTMENT CORE                                	Misc. Expenses (ASSE	              	3200.00
-ADJUSTMENT HIMALYA                             	Misc. Expenses (ASSE	              	88434.00
-ADVANCE INCOME TAX                             	Suspense A/c        	     151008.26	              
-AFREEN MEDICAL STORE                           	Customers Sundry Deb	      11000.00	              
-AGARHARI MEDICAL AGENCY                        	Customers Sundry Deb	         86.00	              
-AGARWAL MEDICAL AGENCIES                       	Customers Sundry Deb	         54.00	              
-AGARWAL PHARMACUITCALS                         	Customers Sundry Deb	        796.00	              
-AKSHARA ENTERPRISES                            	Customers Sundry Deb	              	3.00
-ALLIED PHARMACEUTICALS                         	Sundry Debtors(Consi	      50679.00	              
-ALMAS PHARMEACY                                	Customers Sundry Deb	       3843.00	              
-AMAR DRUG AGENCIES                             	Customers Sundry Deb	      42643.00	              
-AMAR MEDICAL STORE                             	Customers Sundry Deb	      44930.00	              
-ANAM PHARMA                                    	Customers Sundry Deb	        425.00	              
-ANAND HOSPITAL                                 	Customers Sundry Deb	      12924.00	              
-ANAS MEDICAL STORE                             	Customers Sundry Deb	         20.00	              
-ANGLO-FRANCH DRUG & INDUSTRIES LTD             	Supplier Sundry Cred	              	88334.00
-ANIL ENTERPRISES                               	Customers Sundry Deb	       4474.00	              
-ANJANI PHARMA                                  	Customers Sundry Deb	         20.00	              
-ANJU JAIN MEDICAL                              	Customers Sundry Deb	        425.00	              
-ANKIT PHARMA                                   	Customers Sundry Deb	       2880.00	              
-ANSAL MEDICAL STORE                            	Customers Sundry Deb	       1034.00	              
-ANSH PHARMA                                    	Customers Sundry Deb	      31113.00	              
-ANSHU MEDICAL STORE                            	Customers Sundry Deb	      59090.00	              
-ANUJ JAIN MEDICAL                              	Customers Sundry Deb	       2081.00	              
-APURVA PHARMA                                  	Customers Sundry Deb	        100.00	              
-ARCHANA MEDICINES                              	Customers Sundry Deb	      28649.00	              
-ARIF MEDICAL STORE                             	Customers Sundry Deb	        210.00	              
-ARISTO PHARMEUTICALS PVT.LTD.                  	Supplier Sundry Cred	              	96978.39
-ARPIT MEDICARE                                 	Supplier Sundry Cred	       1874.00	              
-AS PHARMACY                                    	Customers Sundry Deb	       2209.00	              
-ASHIRWAD HOSPITAL                              	Customers Sundry Deb	       1701.00	              
-ASHISH MEDICAL STORE                           	Customers Sundry Deb	         17.00	              
-ASHOK MEDICAL HALL                             	Customers Sundry Deb	        121.00	              
-ASHOKA SALES CORPORATION                       	Customers Sundry Deb	              	6605.00
-AVI ENTERPRISES                                	Customers Sundry Deb	       1623.00	              
-AVIGHN ENETRPRISES                             	Customers Sundry Deb	        240.00	              
-AWADH MEDICAL STORE                            	Customers Sundry Deb	              	1.00
-AWASTHI MEDICAL STORE                          	Customers Sundry Deb	      23707.00	              
-AWDHESH EMPLOYE                                	Misc. Expenses (ASSE	       1100.00	              
-AYUSH MEDICAL STORE                            	Customers Sundry Deb	      88090.00	              
-AYUSHMAN HEALTH CENTRE                         	Customers Sundry Deb	      11007.00	              
-            C A R R Y   F O R W A R D -------->	                    	     975985.26	1166315.91
-        B R O U G H T   F O R W A R D -------->	                    	     975985.26	1166315.91
-AYUSHMAN HOSPITAL                              	Customers Sundry Deb	       2659.00	              
-B.L.PHARMACUTICALS                             	Customers Sundry Deb	              	1.00
-B.S. PHARMA                                    	Customers Sundry Deb	        557.00	              
-B.U.N.N. PHARMA                                	Customers Sundry Deb	              	1546.00
-BABA HOSPITAL MEDICAL STORE                    	Customers Sundry Deb	       3828.00	              
-BAGHEL HOSPITAL PHARMACY                       	Customers Sundry Deb	      75236.00	              
-BAJAJ ALIZENGE INSURANCE                       	Suspense A/c        	      36157.00	              
-BAJPAI CLINIC                                  	Customers Sundry Deb	      19774.00	              
-BAJRANG PHARMA                                 	Customers Sundry Deb	       2101.00	              
-BALA JI MEDICAL AGENCY                         	Customers Sundry Deb	        954.00	              
-BALAJI PHARMACEUTICALS                         	Customers Sundry Deb	      61701.00	              
-BALANACE                                       	Misc. Expenses (ASSE	              	15206.00
-BANGALI CLINIC                                 	Customers Sundry Deb	       2606.00	              
-BANK CHARGES CANARA BANK II                    	EXPENSES (INDIRECT/A	      58810.00	              
-BANK CHARGES HDFC BANK                         	Suspense A/c        	        262.70	              
-BANK CHARGES KOTAK                             	EXPENSES (INDIRECT/A	              	10484.09
-BAPU MEDICAL HALL                              	Customers Sundry Deb	      12892.00	              
-BEST CARE MEDICAL STORE                        	Customers Sundry Deb	              	2781.00
-BETU MEDICAL STORE                             	Customers Sundry Deb	        672.00	              
-BHAGIRATH AGENCY                               	Customers Sundry Deb	      39327.00	              
-BHAGWATI PHARMA                                	Customers Sundry Deb	              	4.00
-BHAGWATI PHARMACEUTICALS                       	Customers Sundry Deb	       2244.00	              
-BHARAT MEDICAL AGENCY                          	Customers Sundry Deb	        470.00	              
-BHARAT MEDICAL STORE                           	Customers Sundry Deb	         93.00	              
-BHARAT MEDICAL STORE                           	Customers Sundry Deb	     182286.00	              
-BHARTI AIRTEL LTD                              	Customers Sundry Deb	      16394.00	              
-BHATIA MEDICAL STORE                           	Customers Sundry Deb	      12766.00	              
-BHATIA MEDICAL STORE******                     	Customers Sundry Deb	      43512.00	              
-BHAVY MEDICAL STORE                            	Customers Sundry Deb	       1525.00	              
-BHOLA NATH & SONS                              	Customers Sundry Deb	      45726.00	              
-BHOLA PHARMA                                   	Customers Sundry Deb	       1957.00	              
-BHOLE NATH MEDICAL AGENCIES                    	Customers Sundry Deb	        232.00	              
-BLUE CROSS LABORATORIES PVT LTD.               	Supplier Sundry Cred	              	86783.44
-BREAK POINT                                    	Customers Sundry Deb	      66089.00	              
-CANARA BANK IInd                               	Bank Accounts       	     232558.00	              
-CAR LOAN                                       	Loans (Liability)   	    1337929.00	              
-CARE MEDICAL STORE                             	Customers Sundry Deb	        450.00	              
-CASH                                           	Cash-in-hand        	     125888.00	              
-CASH HANDLING CHARGES                          	Suspense A/c        	       2563.00	              
-CASH SALE                                      	Customers Sundry Deb	              	4300.00
-CERDIT NOTE                                    	Customers Sundry Deb	      25056.00	              
-CHANDRA PHARMA                                 	Supplier Sundry Cred	              	2068.00
-CHARAK HEALTH CARE AND DENTAL CLINIC           	Customers Sundry Deb	        654.00	              
-CHEQ.RETURN                                    	Misc. Expenses (ASSE	       6272.00	              
-CHHABI  MEDICALS                               	Customers Sundry Deb	        267.00	              
-CHITTRANSH MEDICAL STORE                       	Customers Sundry Deb	       6041.00	              
-CIPLA                                          	Supplier Sundry Cred	     473583.65	              
-CIPLA HEALTH                                   	Supplier Sundry Cred	              	69100.64
-CNS PHARMECY                                   	Customers Sundry Deb	       3858.00	              
-COCHLEA MEDICALSTORE                           	Customers Sundry Deb	       1436.00	              
-Credit Note                                    	Suspense A/c        	      24267.00	              
-CREDIT NOTE                                    	Misc. Expenses (ASSE	              	10476.00
-CREDIT NOTE ADJ TO MR                          	EXPENSES (INDIRECT/A	      30521.00	              
-CUEWIN PHARMACY                                	Customers Sundry Deb	       4351.00	              
-D.PHARMA                                       	Customers Sundry Deb	      85265.00	              
-DEEP MEDICAL & SURGICAL                        	Customers Sundry Deb	      46783.00	              
-DEEP RAJ PHARMA                                	Customers Sundry Deb	         45.00	              
-DEEPAK ENTERPRISES                             	Customers Sundry Deb	      24550.00	              
-DEEWAN ENT CLINIC                              	Customers Sundry Deb	       5803.00	              
-            C A R R Y   F O R W A R D -------->	                    	    4104956.61	1369066.08
-        B R O U G H T   F O R W A R D -------->	                    	    4104956.61	1369066.08
-DELHI MEDICAL AGENCY                           	Customers Sundry Deb	         97.00	              
-DERMA PHARMACY                                 	Customers Sundry Deb	       4545.00	              
-DEVAKI HOSPITAL                                	Customers Sundry Deb	        675.00	              
-DEVAKI PHARMACEUTICALS                         	Customers Sundry Deb	        588.00	              
-DEY'S MEDICAL STORE (MFG) LTD.                 	Supplier Sundry Cred	              	184363.98
-DIDWANIA MEDICINE HOUSE ***********            	Customers Sundry Deb	          1.00	              
-DIFFRENCE                                      	Misc. Expenses (ASSE	     425181.52	              
-DIPTY PHARMA                                   	Customers Sundry Deb	     125000.00	              
-DIPTY PHARMA -5                                	Customers Sundry Deb	              	125400.00
-DIPTY PHARMA 1                                 	Customers Sundry Deb	     502300.00	              
-DIPTY PHARMA 19/2/23                           	Customers Sundry Deb	      94400.00	              
-DIPTY PHARMA 4                                 	Customers Sundry Deb	              	64700.00
-DIPTY PHARMA 6                                 	Customers Sundry Deb	     291150.00	              
-Discount                                       	Suspense A/c        	       2545.67	              
-DR. MANISHA ASTHANA                            	Customers Sundry Deb	       4231.00	              
-DR. S.K GUPTA                                  	Customers Sundry Deb	        334.00	              
-DR.A.A.QURAISHI                                	Customers Sundry Deb	        877.00	              
-DR.A.K. DIWEDI                                 	Customers Sundry Deb	       1700.00	              
-DR.A.K.BISWAS                                  	Customers Sundry Deb	        608.00	              
-DR.A.K.GUPTA                                   	Customers Sundry Deb	        508.00	              
-DR.A.K.JAIN                                    	Customers Sundry Deb	       1279.00	              
-DR.A.K.KIDVAIA  12037                          	Customers Sundry Deb	        581.00	              
-DR.A.K.MAURYA                                  	Customers Sundry Deb	        405.00	              
-DR.A.K.SHARMA                                  	Customers Sundry Deb	       7624.00	              
-DR.A.K.SHARMA                                  	Customers Sundry Deb	        877.00	              
-DR.A.K.TRIPATHI                                	Customers Sundry Deb	       2324.00	              
-DR.A.K.TRIPATHI  27288                         	Customers Sundry Deb	              	472.00
-DR.A.K.VERMA                                   	Customers Sundry Deb	        959.00	              
-DR.A.K.VERMA                                   	Customers Sundry Deb	        624.00	              
-DR.A.P. TIWARI                                 	Customers Sundry Deb	        210.00	              
-DR.A.R ANSARI                                  	Customers Sundry Deb	       1368.00	              
-DR.AARIF SIDDIQUI                              	Customers Sundry Deb	        643.00	              
-DR.ABHAY KRISHNA                               	Customers Sundry Deb	       3909.00	              
-DR.ABHISHEK AGARWAL                            	Customers Sundry Deb	        877.00	              
-DR.ABUZAR ALI                                  	Customers Sundry Deb	        704.00	              
-DR.ADIL KHAN                                   	Customers Sundry Deb	       3780.00	              
-DR.AFSAR RAZA                                  	Customers Sundry Deb	       1338.00	              
-DR.AFZAL ANSARI                                	Customers Sundry Deb	       2256.00	              
-DR.AJAY MASIH                                  	Customers Sundry Deb	        221.00	              
-DR.AKHILESH GUPTA                              	Customers Sundry Deb	        350.00	              
-DR.AKHILESH KUMAR VERMA                        	Customers Sundry Deb	        879.00	              
-DR.ALOK RAI                                    	Customers Sundry Deb	       1412.00	              
-DR.ANAND SINGH                                 	Customers Sundry Deb	       9203.00	              
-DR.ANIKESH PIRAMAL                             	Customers Sundry Deb	     192258.26	              
-DR.ANIL KUMAR                                  	Customers Sundry Deb	       3850.00	              
-DR.ANKIT SHRIVASTAVA                           	Customers Sundry Deb	      10671.00	              
-DR.AR ANSHARI                                  	Customers Sundry Deb	       2256.00	              
-DR.ARCHANA KANODIA                             	Customers Sundry Deb	       1015.00	              
-DR.B.D.GUPTA                                   	Customers Sundry Deb	        379.00	              
-DR.B.LAL                                       	Customers Sundry Deb	        874.00	              
-DR.B.P.ANAND                                   	Customers Sundry Deb	       5700.00	              
-DR.BANSIDHAR GUPTA                             	Customers Sundry Deb	        513.00	              
-DR.C.P.MAURYA                                  	Customers Sundry Deb	       6000.00	              
-DR.C.S.GUPTA                                   	Customers Sundry Deb	       4471.00	              
-DR.D.D.CHAUHAN                                 	Customers Sundry Deb	       1974.00	              
-DR.D.K.SINGH                                   	Customers Sundry Deb	       5438.00	              
-DR.D.K.VERMA                                   	Customers Sundry Deb	      11599.00	              
-DR.D.P.MISHRA                                  	Customers Sundry Deb	       1114.00	              
-DR.DEVESH PANDAY                               	Customers Sundry Deb	       2650.00	              
-            C A R R Y   F O R W A R D -------->	                    	    5852283.06	1744002.06
-        B R O U G H T   F O R W A R D -------->	                    	    5852283.06	1744002.06
-DR.DHANWANT KUMAR                              	Customers Sundry Deb	        730.00	              
-DR.DIVYA PRAKESH SHARMA                        	Customers Sundry Deb	       7510.00	              
-DR.FAISAL ZIA                                  	Customers Sundry Deb	              	7925.00
-DR.FAZLUR REHMAN                               	Customers Sundry Deb	        684.00	              
-DR.FIROJ AHMAD                                 	Customers Sundry Deb	       1155.00	              
-DR.G.S SINGH                                   	Customers Sundry Deb	        611.00	              
-DR.G.S.MISHRA                                  	Customers Sundry Deb	       4222.00	              
-DR.G.S.MISHRA                                  	Customers Sundry Deb	       1404.00	              
-DR.GAUTAM SAXENA                               	Customers Sundry Deb	       1216.00	              
-DR.HIMANSHU SINGH                              	Customers Sundry Deb	       5523.00	              
-DR.I.A.SIDDIQUI                                	Customers Sundry Deb	       1134.00	              
-DR.IK KHAN                                     	Customers Sundry Deb	       4751.00	              
-DR.J.A. FAROOQHI                               	Customers Sundry Deb	       1139.00	              
-DR.J.S.BHATIA                                  	Customers Sundry Deb	      18759.00	              
-DR.JANARDAN MISHRA                             	Customers Sundry Deb	      21835.00	              
-DR.JASBIR SINGH                                	Customers Sundry Deb	       1483.00	              
-DR.K.G.GUPTA                                   	Customers Sundry Deb	       8724.00	              
-DR.K.R.VERMA                                   	Customers Sundry Deb	        418.00	              
-DR.L.N VAISHAY                                 	Customers Sundry Deb	       6381.00	              
-DR.LAXMI NARAYAN VAISH                         	Customers Sundry Deb	       5796.00	              
-DR.LUV SRIVASTAVA                              	Customers Sundry Deb	              	452.00
-DR.M.AHMAD                                     	Customers Sundry Deb	       7675.00	              
-DR.M.K.GUPTA                                   	Customers Sundry Deb	        527.00	              
-DR.M.K.RAGHUVANSHI                             	Customers Sundry Deb	        720.00	              
-DR.M.N ANSARI                                  	Customers Sundry Deb	       6684.00	              
-DR.M.N.HASAN                                   	Customers Sundry Deb	       7027.00	              
-DR.M.P. ANSARI                                 	Customers Sundry Deb	       5811.00	              
-DR.M.S. ANSARI                                 	Customers Sundry Deb	      32298.00	              
-DR.M.Y.QURESHI                                 	Customers Sundry Deb	       1316.00	              
-DR.MANOJ KUMAR SINGH                           	Customers Sundry Deb	        429.00	              
-DR.MOH.HAMIDULLAH                              	Customers Sundry Deb	        430.00	              
-DR.MOH.TABISH SIDDIQUI                         	Customers Sundry Deb	       3598.00	              
-DR.MOHAMAD ASIM KHAN                           	Customers Sundry Deb	      11455.00	              
-DR.N.P GULATI                                  	Customers Sundry Deb	       1247.00	              
-DR.NEETA KHARE                                 	Customers Sundry Deb	       2704.00	              
-DR.NIRAJ TANDAN                                	Customers Sundry Deb	       1500.00	              
-DR.O.P.MISHRA                                  	Customers Sundry Deb	       3098.00	              
-DR.O.P.TANDON                                  	Customers Sundry Deb	       1830.00	              
-DR.PARUL PRASAD                                	Customers Sundry Deb	      18661.00	              
-DR.PAWAN PANDAY                                	Customers Sundry Deb	       3022.00	              
-DR.POONAM SINGH                                	Customers Sundry Deb	      13953.00	              
-DR.PRAMOD AGARWAL                              	Customers Sundry Deb	       2266.00	              
-DR.R.B.MISHRA NILESH                           	Customers Sundry Deb	       7720.00	              
-DR.R.C.AGARWAL                                 	Customers Sundry Deb	       3160.00	              
-DR.R.K.AWASTHI*******                          	Customers Sundry Deb	         86.00	              
-DR.R.K.GUPTA                                   	Customers Sundry Deb	         54.00	              
-DR.R.K.MISHRA                                  	Customers Sundry Deb	        286.00	              
-DR.R.P.MAURYA                                  	Customers Sundry Deb	        406.00	              
-DR.R.P.PANDEY                                  	Customers Sundry Deb	       6935.00	              
-DR.R.P.SHUKLA                                  	Customers Sundry Deb	       1919.00	              
-DR.R.P.SINGH                                   	Sundry Debtors(Consi	      28244.00	              
-DR.RAJESH KHARE(SHIVA MULTI SPECIALITY HOSPITAL	Customers Sundry Deb	       9488.00	              
-DR.RAJESH MISHRA                               	Customers Sundry Deb	       2182.00	              
-DR.RAKESH KUMAR                                	Customers Sundry Deb	      16987.00	              
-DR.RAKESH KUMAR SHARMA                         	Customers Sundry Deb	     305220.25	              
-DR.RAKESH SHUKLA                               	Customers Sundry Deb	       2250.00	              
-DR.RANJAN KUMAR                                	Customers Sundry Deb	       2400.00	              
-DR.RITU SAXENA                                 	Customers Sundry Deb	       1156.00	              
-DR.RIYAZUDDIN AHMAD                            	Customers Sundry Deb	       1233.00	              
-            C A R R Y   F O R W A R D -------->	                    	    6461735.31	1752379.06
-        B R O U G H T   F O R W A R D -------->	                    	    6461735.31	1752379.06
-DR.S.A SIDDIQUI                                	Customers Sundry Deb	       8049.00	              
-DR.S.ANAND                                     	Customers Sundry Deb	        382.00	              
-DR.S.B.MISHRA                                  	Customers Sundry Deb	       1472.00	              
-DR.S.BOSE                                      	Customers Sundry Deb	        602.00	              
-DR.S.K.SINGH                                   	Customers Sundry Deb	       1273.00	              
-DR.S.M.ARIF                                    	Customers Sundry Deb	        431.00	              
-DR.S.M.ARIF                                    	Customers Sundry Deb	       1128.00	              
-DR.S.N.SOFIYAN                                 	Customers Sundry Deb	       1426.00	              
-DR.S.P.GUPTA                                   	Customers Sundry Deb	      25823.00	              
-DR.S.S.CHAUHAN                                 	Customers Sundry Deb	        893.00	              
-DR.S.TRIVEDI                                   	Customers Sundry Deb	       1761.00	              
-DR.SACHIN KUMAR PATEL                          	Customers Sundry Deb	       5104.00	              
-DR.SALMAN ALI                                  	Customers Sundry Deb	       3660.00	              
-DR.SANJAY KHARE                                	Customers Sundry Deb	       1000.00	              
-DR.SANTOSH SINGH                               	Customers Sundry Deb	       1884.00	              
-DR.SARFARAJ AHMAD                              	Supplier Sundry Cred	       5419.00	              
-DR.SARFARAZ ALAM                               	Customers Sundry Deb	        560.00	              
-DR.SARTAJ ALAM                                 	Customers Sundry Deb	       7575.00	              
-DR.SATISH KUMAR                                	Customers Sundry Deb	        752.00	              
-DR.SHAILENDRA                                  	Customers Sundry Deb	       6470.00	              
-DR.SHARAD GUPTA                                	Customers Sundry Deb	       1557.00	              
-DR.SHARAD PANDAY                               	Customers Sundry Deb	        906.00	              
-DR.SHASHANK BHUSHAN                            	Customers Sundry Deb	        376.00	              
-DR.SHASHANK MATHUR HUF                         	Customers Sundry Deb	      74045.00	              
-DR.SHIVENDRA SRIVASTAV                         	Customers Sundry Deb	        289.00	              
-DR.SIDDHARATH PATEL                            	Customers Sundry Deb	      12515.00	              
-DR.SIRAJ AHMAD                                 	Customers Sundry Deb	        690.00	              
-DR.SM CHANDRA                                  	Customers Sundry Deb	       1410.00	              
-DR.SMITA GUPTA                                 	Customers Sundry Deb	       2170.00	              
-DR.SUNIL KHARE                                 	Customers Sundry Deb	       1042.00	              
-DR.SUNIL MEHROTRA  24179                       	Customers Sundry Deb	        126.00	              
-DR.SUSHIL KUMAR                                	Customers Sundry Deb	       2606.00	              
-DR.TAJ MOHAMAD                                 	Customers Sundry Deb	       7710.00	              
-DR.VEERU PIRAMAL                               	Customers Sundry Deb	       1904.00	              
-DR.VIJAY BAHADUR                               	Customers Sundry Deb	        759.00	              
-DR.VIJAY TIRVEDI                               	Customers Sundry Deb	       1231.00	              
-DR.VIRAT'S CHILD CARE                          	Customers Sundry Deb	       1241.00	              
-DR.VIRATS PHARMACY                             	Customers Sundry Deb	        121.00	              
-DR.W.U.ANSARI                                  	Customers Sundry Deb	       2455.00	              
-DR.WASEEK                                      	Customers Sundry Deb	       1186.00	              
-DR.YASHWANT SINGH                              	Customers Sundry Deb	       3120.00	              
-DR.Z.P.KHAN                                    	Customers Sundry Deb	       6105.00	              
-DRUG SALES AGENCY                              	Customers Sundry Deb	        600.00	              
-DUBEY MEDICAL AND SURGICAL                     	Customers Sundry Deb	       2726.00	              
-DURGA MEDICAL STORE                            	Customers Sundry Deb	      20000.00	              
-DURGA MEDICOS                                  	Customers Sundry Deb	       2955.00	              
-DWIVEDI MEDICAL HALL                           	Customers Sundry Deb	       2013.00	              
-DWIVEDI MEDICAL STORE                          	Customers Sundry Deb	         40.00	              
-EAGLE ELECTRONICS                              	Customers Sundry Deb	              	21056.00
-EASTERN MEDICAL & SURGICAL CORP.               	Customers Sundry Deb	       1545.00	              
-EEEUDD,HUSAINGANJ                              	EXPENSES (INDIRECT/A	      22464.00	              
-EUGENICS MEDISCIENCES PVT LTD                  	Customers Sundry Deb	              	368.00
-EXCEL LABOTRIES                                	Customers Sundry Deb	              	370660.00
-EXCESS QUANTITY FOR CREDITE NOTE               	Supplier Sundry Cred	              	769.00
-EXPENCESS FOR DARJEELING                       	EXPORT              	      85820.00	              
-EXPENSESS                                      	EXPENSES (DIRECT/MFG	     596525.80	              
-F.I.TRADERS                                    	Customers Sundry Deb	        992.00	              
-FAIRDEAL MEDICAL AGENCIES                      	Customers Sundry Deb	        236.00	              
-FAROOQUI MEDICAL HALL                          	Customers Sundry Deb	      44879.00	              
-            C A R R Y   F O R W A R D -------->	                    	    7441759.11	2145232.06
-        B R O U G H T   F O R W A R D -------->	                    	    7441759.11	2145232.06
-FREE GOODS FROM CIPLA                          	Customers Sundry Deb	              	11399.00
-FREIGHT & CARTIAGE                             	Suspense A/c        	              	2359.60
-FrieghtCharges1                                	Expenses Indirect   	              	220.00
-FUTURE INFOSYS                                 	EXPENSES (DIRECT/MFG	      20470.00	              
-G.A PHARMA******************                   	Customers Sundry Deb	         23.00	              
-GANGA PHARMA                                   	Customers Sundry Deb	              	28.00
-GENO PHARMACEUTICALS PVT.LTD                   	Supplier Sundry Cred	      13776.00	              
-GIRZA LAXMI MEDICAL STORE                      	Customers Sundry Deb	      18676.00	              
-GLAXOSMITHKLINE PHARMACEUTICALS LTD            	Supplier Sundry Cred	              	105102.09
-GOEL PHARMA                                    	Supplier Sundry Cred	              	4511.00
-GOLDEN MEDICAL AGENCY                          	Customers Sundry Deb	       7364.00	              
-GOODS RETURN                                   	Supplier Sundry Cred	              	26515.00
-GOPAL ENTERPRISES                              	Customers Sundry Deb	       2033.00	              
-GOVERDHAN PHARMA                               	Customers Sundry Deb	       5904.00	              
-GREEN CITY PHARMACY                            	Customers Sundry Deb	      53180.00	              
-GST TAX                                        	Customers Sundry Deb	    3203173.00	              
-GUJARAT GROWMED MKT.(INDIA)PVT.LTD.            	Supplier Sundry Cred	              	49838.00
-GUPTA MEDICAL STORE                            	Customers Sundry Deb	       2327.00	              
-GUPTA MEDICAL STORE                            	Customers Sundry Deb	       1321.00	              
-GUPTA MEDICAL STORE W.S                        	Customers Sundry Deb	       1220.00	              
-GYAN MEDICAL STORE                             	Customers Sundry Deb	      73202.00	              
-H.K.MEDICOSE                                   	Customers Sundry Deb	      19582.00	              
-HANUMANT MEDICALS                              	Customers Sundry Deb	      21343.00	              
-HANUMANT PHARMACEUTICALS                       	Customers Sundry Deb	      16163.00	              
-HANUMANT POLYCLINIC                            	Customers Sundry Deb	       1380.00	              
-HAPPY MEDICAL STORE                            	Customers Sundry Deb	       1254.00	              
-HARE KRISHNA PHARMA                            	Customers Sundry Deb	     215350.00	              
-HARI KRIPA PHARMA                              	Customers Sundry Deb	       8539.00	              
-HARI OM MEDICAL AGENCY                         	Customers Sundry Deb	              	1.00
-HARI OM MEDICINES                              	Customers Sundry Deb	        259.00	              
-HAYAT CLINIC                                   	Customers Sundry Deb	       4413.00	              
-HDFC BANK                                      	Bank Accounts       	     320795.79	              
-HERITAGE HOSPITAL                              	Customers Sundry Deb	       2000.00	              
-HIMALAYA WELLNESS COMPANY                      	Customers Sundry Deb	              	94514.36
-HIND COSMETIC CENTER                           	Customers Sundry Deb	       5073.00	              
-HIND MEDICAL AGENCY                            	Customers Sundry Deb	      83520.00	              
-HIND MEDICAL STORE                             	Customers Sundry Deb	       1723.00	              
-HINDUSTAN MEDICAL AGENCY                       	Customers Sundry Deb	         84.00	              
-HINDUSTAN PHARMA                               	Customers Sundry Deb	      17845.00	              
-HOME A/C                                       	EXPENSES (DIRECT/MFG	     442000.00	              
-HOME CARE HOSPITAL                             	Customers Sundry Deb	      42092.00	              
-HOME EXPENSE A/C                               	EXPENSES (INDIRECT/A	    1021600.00	              
-HOME MEDICINES                                 	EXPENSES (INDIRECT/A	       7068.00	              
-HOUSE TAX                                      	Customers Sundry Deb	      27413.00	              
-ILAHI MEDICAL STORE                            	Customers Sundry Deb	        118.00	              
-IMS                                            	Suspense A/c        	              	30000.00
-In Put CGST 14%                                	Purchase TAX CGST   	     161183.40	              
-In Put CGST 2.5%                               	Purchase TAX CGST   	     299641.68	              
-In Put CGST 6%                                 	Purchase TAX CGST   	   31912398.80	              
-In Put CGST 9%                                 	Purchase TAX CGST   	    5434207.56	              
-In Put IGST 12%                                	Purchase TAX IGST   	      51386.25	              
-In Put IGST 18%                                	Purchase TAX IGST   	              	4773.46
-In Put IGST 28%                                	Purchase TAX IGST   	              	127.32
-In Put SGST 14%                                	Purchase TAX SGST   	     161183.40	              
-In Put SGST 2.5%                               	Purchase TAX SGST   	     299641.68	              
-In Put SGST 6%                                 	Purchase TAX SGST   	   31910083.80	              
-In Put SGST 9%                                 	Purchase TAX SGST   	    5434207.56	              
-INCOME TAX                                     	EXPENSES (INDIRECT/A	       6900.00	              
-INDIAN DRUG HOUSE                              	Customers Sundry Deb	      22983.00	              
-            C A R R Y   F O R W A R D -------->	                    	   88797860.03	2474620.89
-        B R O U G H T   F O R W A R D -------->	                    	   88797860.03	2474620.89
-INDIRA NAGAR MEDICAL CENTER                    	Customers Sundry Deb	       5970.00	              
-INSURANCE                                      	Suspense A/c        	    1175409.00	              
-INTEREST CANARA BANK                           	Customers Sundry Deb	    1692992.44	              
-INTREST SHIKHA RASTOGI                         	Customers Sundry Deb	      58650.00	              
-J K R ENTERPRISES                              	Customers Sundry Deb	              	27.00
-J.H.PHARMA                                     	Customers Sundry Deb	              	535.00
-J.K.PHARMA                                     	Customers Sundry Deb	      47742.00	              
-JAI DEVI PHARMA                                	Customers Sundry Deb	              	280.00
-JAI HANUMAN MEDICALS                           	Customers Sundry Deb	              	77897.00
-JAI MAHAKAL MEDICALS                           	Customers Sundry Deb	        453.00	              
-JAI MEDICAL STORE                              	Customers Sundry Deb	       1620.00	              
-JAISWAL MEDICAL STORE                          	Customers Sundry Deb	      53605.00	              
-JAISWAL MEDICAL STORE                          	Customers Sundry Deb	      35623.00	              
-JAISWAL MEDICAL STORE                          	Customers Sundry Deb	       3559.00	              
-JAISWAL PHARMA                                 	Customers Sundry Deb	              	200.00
-JAL SAMBHARANTATHA  SEWA                       	Supplier Sundry Cred	      43125.00	              
-JANTA MEDICAL HALL                             	Customers Sundry Deb	          1.00	              
-JEEVAN DRISHTI HOSPITAL & REHABILATION CENTER  	Customers Sundry Deb	       4442.00	              
-JITENDRA MEDICAL STORE                         	Customers Sundry Deb	        530.00	              
-JSB LOGISTIC & TRAVELS                         	Customers Sundry Deb	       8516.00	              
-K.K.MEDICAL STORE                              	Customers Sundry Deb	       2980.00	              
-K.P.& SONS                                     	Customers Sundry Deb	      12445.00	              
-K.S.MEDICAL AGENCIES                           	Customers Sundry Deb	      82358.00	              
-KAMAAL MEDICAL STORE                           	Customers Sundry Deb	       1584.00	              
-KAMAL MEDICINES                                	Customers Sundry Deb	       1072.00	              
-KAMED AGENCY                                   	Customers Sundry Deb	       1476.00	              
-KAMLA MEDICALS                                 	Customers Sundry Deb	       3078.00	              
-KANHA PHARMA                                   	Customers Sundry Deb	      15489.00	              
-KAPIL PHARMA                                   	Customers Sundry Deb	      39340.00	              
-KAPOOR ENTERPRISES                             	Customers Sundry Deb	       5150.00	              
-KARAN PHARMA                                   	Customers Sundry Deb	      58269.00	              
-KASHERA & SONS                                 	Customers Sundry Deb	       8031.00	              
-KASODHAN MEDICAL STORE                         	Customers Sundry Deb	        133.00	              
-KHAN MEDICAL STORE                             	Customers Sundry Deb	              	1.00
-KHAN MEDICINE AGENCY                           	Customers Sundry Deb	              	208.00
-KHUSHBOO COSMATIC                              	Customers Sundry Deb	       1776.00	              
-KHUSHI PHARMA                                  	Customers Sundry Deb	              	194.00
-KING AGENCY                                    	Customers Sundry Deb	              	24.00
-KISHORE MEDICAL STORE                          	Customers Sundry Deb	       9638.00	              
-KISHORI LAL PRABHU DAYAL MEDICAL STORE         	Customers Sundry Deb	        244.00	              
-KOTAK MAHINDRA BANK                            	Bank Accounts       	              	6827246.37
-KRIPALU AGENCIES                               	Supplier Sundry Cred	              	30583.00
-KRISHNA CLINIC                                 	Customers Sundry Deb	        435.00	              
-KRISHNA MEDICAL STORE                          	Customers Sundry Deb	       3204.00	              
-KRISHNA MEDICAL STORE                          	Customers Sundry Deb	     124144.00	              
-KRISHNA PHARMA                                 	Customers Sundry Deb	              	1.00
-KUMAR MEDICAL STORE                            	Customers Sundry Deb	        439.00	              
-KUMAR MEDICOS                                  	Customers Sundry Deb	              	26199.00
-KUNAL PET CARE AIDS                            	Customers Sundry Deb	       6400.00	              
-KUNDAN MEDICALS                                	Customers Sundry Deb	         29.00	              
-LABOUR EXP.                                    	Suspense A/c        	       3960.00	              
-LAKSHYA MEDICAL STORE                          	Customers Sundry Deb	       2024.00	              
-LALIT MEDICO                                   	Customers Sundry Deb	        630.00	              
-Less Amt                                       	Suspense A/c        	              	4194.24
-LHTC                                           	Customers Sundry Deb	       2029.00	              
-LIC AARUSH                                     	Misc. Expenses (ASSE	      59289.00	              
-LIC ARAYAN                                     	Misc. Expenses (ASSE	      54304.00	              
-LIC MEENU                                      	Misc. Expenses (ASSE	     140933.00	              
-LIC RAHUL                                      	Misc. Expenses (ASSE	      20900.00	              
-            C A R R Y   F O R W A R D -------->	                    	   92591880.47	9442210.50
-        B R O U G H T   F O R W A R D -------->	                    	   92591880.47	9442210.50
-LIC RAJENDAR                                   	Suspense A/c        	       6598.00	              
-LIC SHIKHA                                     	Misc. Expenses (ASSE	     112535.00	              
-LIC SUNEET                                     	Misc. Expenses (ASSE	     169173.00	              
-LIC TANISH                                     	Misc. Expenses (ASSE	     350742.00	              
-LIC VINEET                                     	Misc. Expenses (ASSE	     193272.00	              
-LIFE MEDICO                                    	Customers Sundry Deb	       3255.00	              
-LLJK.PHARMACEUTICALS                           	Customers Sundry Deb	      43742.00	              
-LUCKNOW PHARMACY                               	Customers Sundry Deb	        908.00	              
-M.L.PHARMA                                     	Customers Sundry Deb	       2376.00	              
-M.PHARMA                                       	Customers Sundry Deb	      38301.00	              
-M.S.PHARMA                                     	Customers Sundry Deb	        118.00	              
-M.U.PHARMA                                     	Supplier Sundry Cred	              	46620.00
-MAA BARAHI MEDICAL AGENCY                      	Customers Sundry Deb	        480.00	              
-MAA LAXMI PHARMACEUTICALS                      	Customers Sundry Deb	       7698.00	              
-MAA PHARMA                                     	Customers Sundry Deb	       1243.00	              
-MADHU MEDISALES                                	Customers Sundry Deb	      25015.00	              
-MAHADEV DRUG CENTER                            	Supplier Sundry Cred	      59499.00	              
-MAHARANI DISTRIBUTORS                          	Customers Sundry Deb	      31501.00	              
-MAHESH JOGI  POONAM                            	Suspense A/c        	      11000.00	              
-MALHOTRA AGENCIES                              	Customers Sundry Deb	        230.00	              
-MANISH KAPOOR                                  	Customers Sundry Deb	       2000.00	              
-MANISH MEDICAL AGENCY                          	Customers Sundry Deb	     217977.00	              
-MANJULA HOSPITAL & TRAUMA CENTRE               	Customers Sundry Deb	       2622.00	              
-MANOJ MEDICAL STORE                            	Supplier Sundry Cred	       6770.00	              
-MANOJ PHARMA                                   	Customers Sundry Deb	       2223.00	              
-MANYATA MEDICALS                               	Customers Sundry Deb	        452.00	              
-MASTER MEDICAL AGENCIES                        	Customers Sundry Deb	       6000.00	              
-MATHUR CLINIC                                  	Customers Sundry Deb	     263808.00	              
-MAX SURGICAL EQUIPMENTS                        	Customers Sundry Deb	              	1.00
-MAYUR ENTERPRISES                              	Customers Sundry Deb	       3840.00	              
-MEDICINE HOUSE                                 	Customers Sundry Deb	      11279.00	              
-MEDICINE PLUS                                  	Customers Sundry Deb	       2540.00	              
-MEDISURE STOCKIST                              	Customers Sundry Deb	         38.00	              
-MEDLEY PHARMACEUTICALS LTD                     	Supplier Sundry Cred	      30505.00	              
-MEENU RASTOGI                                  	EXPENSES (INDIRECT/A	       8000.00	              
-MEENU WEARS                                    	EXPENSES (INDIRECT/A	              	205130.00
-MISC                                           	Misc. Expenses (ASSE	              	3780.23
-MISHRA MEDICAL STORE                           	Customers Sundry Deb	              	218.00
-MISHRA MEDICAL STORE                           	Customers Sundry Deb	              	4400.00
-MISHRA MEDICAL STORE                           	Customers Sundry Deb	              	383.00
-MODERN MEDICAL HALL                            	Customers Sundry Deb	        320.00	              
-MOHAN SEWA HOSPITAL                            	Customers Sundry Deb	       5710.00	              
-MOTHER CARE HOISPITAL                          	Customers Sundry Deb	              	2327.00
-MUKUL MEDICAL STORE-1                          	Customers Sundry Deb	       1000.00	              
-MUSKAAN RASTOGI                                	EXPENSES (INDIRECT/A	     109000.00	              
-NAGAR NIGAM                                    	Customers Sundry Deb	      37719.00	              
-NANCY AGENCY                                   	Customers Sundry Deb	              	1.00
-NARSINGH PHARMA & SURGICAL                     	Customers Sundry Deb	        180.00	              
-NATIONAL PHARMA AGENCY                         	Customers Sundry Deb	      44223.00	              
-NAV DURGA MEDICALS                             	Customers Sundry Deb	        888.00	              
-NAVED MEDICAL STORE                            	Customers Sundry Deb	          2.00	              
-NEW BHARAT MEDICAL STORE                       	Customers Sundry Deb	          4.00	              
-NEW CHEMICO CHIMIST                            	Customers Sundry Deb	      10470.00	              
-NEW DURGA MEDICAL STORE                        	Customers Sundry Deb	              	170.00
-NEW OM MEDICAL STORE                           	Customers Sundry Deb	      17874.00	              
-NEW PRAKASH MEDICAL STORE                      	Customers Sundry Deb	              	1249.00
-NEW SHAMA MEDICAL STORE                        	Customers Sundry Deb	       2908.00	              
-NEW SHIV MEDICAL AGENCIES                      	Customers Sundry Deb	      23520.00	              
-NEW UNIQUE AGENCY                              	Customers Sundry Deb	      90834.00	              
-            C A R R Y   F O R W A R D -------->	                    	   94552272.47	9706489.73
-        B R O U G H T   F O R W A R D -------->	                    	   94552272.47	9706489.73
-NIKITA SINGH C/O SONIA                         	Customers Sundry Deb	      10000.00	              
-NISCHAY DRUG DE ADDICTION & PSYCHIATRIC CENTER 	Customers Sundry Deb	       1220.00	              
-NOVELTY AGENCY                                 	Customers Sundry Deb	       8117.00	              
-O.B.PHARMACEUTICALS                            	Customers Sundry Deb	      44518.00	              
-OM MEDICAL AGENCY                              	Customers Sundry Deb	      35709.00	              
-OM SAI MEDICAL STORE                           	Customers Sundry Deb	        511.00	              
-OPEN.CASH                                      	Customers Sundry Deb	              	350000.00
-Others Amount                                  	Suspense A/c        	              	300.00
-Others Discount                                	Suspense A/c        	              	2081.53
-Out Put CGST 14%                               	SALE TAX CGST       	              	148101.90
-Out Put CGST 2.5%                              	SALE TAX CGST       	              	312393.55
-Out Put CGST 6%                                	SALE TAX CGST       	              	33275459.61
-Out Put CGST 9%                                	SALE TAX CGST       	              	5686917.08
-Out Put IGST 12%                               	SALE TAX IGST       	              	16168.86
-Out Put IGST 18%                               	SALE TAX IGST       	              	132.43
-Out Put IGST 5%                                	SALE TAX IGST       	              	23.20
-Out Put SGST 14%                               	SALE TAX SGST       	              	148101.90
-Out Put SGST 2.5%                              	SALE TAX SGST       	              	312393.55
-Out Put SGST 6%                                	SALE TAX SGST       	              	33275459.61
-Out Put SGST 9%                                	SALE TAX SGST       	              	5686917.08
-P.D.PHARMA                                     	Customers Sundry Deb	              	1238.00
-P.K.PHARMA                                     	Customers Sundry Deb	              	7400.00
-P.R.PHARMA                                     	Customers Sundry Deb	      46496.00	              
-PAL MEDICAL STORE                              	Customers Sundry Deb	              	6953.00
-PAL MEDICAL STORE                              	Customers Sundry Deb	      43774.00	              
-PAL PHARMA                                     	Customers Sundry Deb	       8081.00	              
-PANDAY MEDICAL STORE                           	Customers Sundry Deb	              	35.00
-PANDEY DRUG ENTERPRISES                        	Customers Sundry Deb	       2669.00	              
-PANDEY MEDICAL STORE                           	Customers Sundry Deb	       1000.00	              
-PANKAJ MEDICAL STORE                           	Customers Sundry Deb	      74556.00	              
-PARAMJEET EMPLOY                               	SalaryPayble        	        569.00	              
-PARIJAT ENTERPRISES                            	Customers Sundry Deb	      21284.00	              
-PASHUPATI MEDICAL AGENCIES                     	Customers Sundry Deb	       1761.00	              
-PATHAK PHARMA                                  	Customers Sundry Deb	              	30.00
-PAWAN MEDICAL STORE                            	Sundry Debtors(Consi	      67404.00	              
-PAWAN MEDICAL STORE                            	Supplier Sundry Cred	        100.00	              
-PHARMA CHEM DISTRIBUTOR                        	Supplier Sundry Cred	              	1305.00
-PHARMA TRADERS                                 	Supplier Sundry Cred	              	38244.00
-PIRAMAL ENTERPRISES LIMITED                    	Supplier Sundry Cred	              	429657.85
-PIRAMAL PHARMA LIMITED                         	Supplier Sundry Cred	      49857.00	              
-POONAM EMPLOY                                  	Customers Sundry Deb	      72134.00	              
-POPPY BARELLI                                  	Customers Sundry Deb	     445000.00	              
-POPULAR MEDICAL STORE                          	Customers Sundry Deb	       5063.00	              
-POPULAR MEDICAL STORE                          	Customers Sundry Deb	              	3375.00
-PRABHU MEDICAL STORE                           	Supplier Sundry Cred	      23199.00	              
-PRABHUNATH PHARMA                              	Customers Sundry Deb	       2014.00	              
-PRADEEP'S PHARMA                               	Supplier Sundry Cred	              	127747.00
-PRADHANMANTRI BHARTIYA JANAUSHADHI KENDRA      	Customers Sundry Deb	         62.00	              
-PRADHANMANTRI BHARTIYA JANAUSHADHI KENDRA      	Customers Sundry Deb	       1995.00	              
-PRADHANMANTRI BHARTIYA JANAUSHADHI KENDRA      	Customers Sundry Deb	       1293.00	              
-PRAKASH MEDICAL STORE                          	Customers Sundry Deb	        665.00	              
-PRAKASH MEDICAL STORE                          	Customers Sundry Deb	       1073.00	              
-PRAKASH MEDICALS                               	Customers Sundry Deb	          7.00	              
-PRASHANT PHARMA                                	Customers Sundry Deb	              	17800.00
-PRATAP MEDICAL STORE                           	Customers Sundry Deb	        268.00	              
-PRATAP MEDICAL STORE                           	Customers Sundry Deb	     300000.00	              
-PREM MEDICAL AGENCY SITAPUR                    	Customers Sundry Deb	              	24042.00
-PRINCE PHARMA                                  	Customers Sundry Deb	              	2058.00
-PUBLIC MEDICAL AGENCY                          	Customers Sundry Deb	      73573.00	              
-            C A R R Y   F O R W A R D -------->	                    	   95896244.47	89580824.88
-        B R O U G H T   F O R W A R D -------->	                    	   95896244.47	89580824.88
-Purchase                                       	Suspense A/c        	      32125.00	              
-PURCHASE A                                     	Customers Sundry Deb	              	45005.00
-PURCHASE FAIZABAD                              	Customers Sundry Deb	      34707.00	              
-PURCHASE GKP                                   	Customers Sundry Deb	              	19285.00
-Purchase GST 0%                                	Purchase SGST       	    3358528.58	              
-Purchase GST 12%                               	Purchase SGST       	   74021789.38	              
-Purchase GST 18%                               	Purchase SGST       	   11724724.33	              
-Purchase GST 5%                                	Purchase SGST       	    1272312.39	              
-PURI MEDICALS                                  	Customers Sundry Deb	      12240.00	              
-PUSHPA MEDICALS                                	Customers Sundry Deb	       9978.00	              
-R.K.MEDICAL STORE                              	Customers Sundry Deb	      31766.00	              
-R.K.MEDICO                                     	Customers Sundry Deb	         40.00	              
-R.K.PHARMA                                     	Customers Sundry Deb	     228527.00	              
-R.S.PHARMACY                                   	Customers Sundry Deb	        703.00	              
-RACHANA OVERSEIS INC                           	Customers Sundry Deb	              	65.00
-RADHA PHARMA                                   	Supplier Sundry Cred	          1.00	              
-RADHEY MEDICAL STORE                           	Customers Sundry Deb	      18791.00	              
-RAGHUVANSH HOSPITAL                            	Customers Sundry Deb	       8354.00	              
-RAHUL RASTOGI                                  	Loans (Liability)   	              	100.00
-RAJ MARKETING                                  	Customers Sundry Deb	      16233.00	              
-RAJ MEDICAL HALL                               	Customers Sundry Deb	       2068.00	              
-RAJ MEDICAL STORE                              	Customers Sundry Deb	        199.00	              
-RAJ MEDICAL STORE                              	Customers Sundry Deb	       1471.00	              
-RAJ MEDICAL STORE                              	Customers Sundry Deb	       7071.00	              
-RAJ MEDICALS                                   	Customers Sundry Deb	        787.00	              
-RAJ SHREE MEDICAL STORE                        	Customers Sundry Deb	        127.00	              
-RAJA AGENCIES                                  	Customers Sundry Deb	      14285.00	              
-RAJA TRADERS                                   	Customers Sundry Deb	              	88801.00
-RAJDHANI HOSPITAL                              	Customers Sundry Deb	       8904.00	              
-RAJDHANI HOSPITAL                              	Customers Sundry Deb	       1064.00	              
-RAJENDAR EMPLOYE                               	Customers Sundry Deb	      72000.00	              
-RAKESH PHARMA                                  	Customers Sundry Deb	      60025.00	              
-RAM BABU MEDICAL STORE                         	Customers Sundry Deb	      39224.00	              
-RAMAN PHARMA                                   	Customers Sundry Deb	      22992.00	              
-RAMENDAR                                       	EXPENSES (INDIRECT/A	      23500.00	              
-RANJAN PHARMA                                  	Customers Sundry Deb	       1225.00	              
-RAYEEN MEDICAL HALL WS                         	Customers Sundry Deb	      22442.00	              
-RD SUNEET                                      	Investments         	              	4102.00
-REKON SALES PVT LTD                            	Customers Sundry Deb	       8529.00	              
-REWETI PHARMA                                  	Customers Sundry Deb	       4448.00	              
-RIDDHI SIDDHI MEDICAL STORE                    	Customers Sundry Deb	       1243.00	              
-RISHITA MEDICAL STORE                          	Customers Sundry Deb	       7950.00	              
-RITU AND SONS                                  	Customers Sundry Deb	       3894.00	              
-ROUNAQ PHARMACEUTICALS                         	Customers Sundry Deb	          1.00	              
-Round Off                                      	Suspense A/c        	      14238.37	              
-ROUNDED Off                                    	EXPENSES (DIRECT/MFG	          5.92	              
-ROYAL MEDICAL HALL                             	Customers Sundry Deb	              	229.00
-RUCHI PHRAMACEUTICALS                          	Customers Sundry Deb	       1155.00	              
-RUDRA PHARMACEUTICALS                          	Customers Sundry Deb	       1333.00	              
-RUDRAKSH PHARMA                                	Customers Sundry Deb	       5404.00	              
-RUPESH                                         	Customers Sundry Deb	       3800.00	              
-S.B.PHARMA                                     	Customers Sundry Deb	              	262.00
-S.D.PHARMA                                     	Customers Sundry Deb	              	321.00
-S.K.MEDICAL AGENCY                             	Customers Sundry Deb	              	1.00
-S.N.J.PHARMA AND SURGICALS                     	Supplier Sundry Cred	        775.00	              
-S.N.MEDICALS                                   	Customers Sundry Deb	       4104.00	              
-S.S.HOSPITAL                                   	Customers Sundry Deb	       2678.00	              
-SAFE WAY MEDICALS                              	Customers Sundry Deb	         11.00	              
-SAHAJ NURSING HOME                             	Customers Sundry Deb	              	781.00
-            C A R R Y   F O R W A R D -------->	                    	  187004017.44	89739776.88
-        B R O U G H T   F O R W A R D -------->	                    	  187004017.44	89739776.88
-SAI MEDICAL AGENCY                             	Customers Sundry Deb	       1119.00	              
-SAJID MEDICAL STORE                            	Customers Sundry Deb	      33568.00	              
-SAJID MEDICAL STORE BLOCK***********           	Customers Sundry Deb	              	59.00
-SALARY                                         	SalaryPayble        	    3329497.00	              
-Sale GST 0%                                    	Sale SGST           	              	3159937.46
-Sale GST 12%                                   	Sale SGST           	              	77140507.72
-Sale GST 18%                                   	Sale SGST           	              	11825084.71
-Sale GST 5%                                    	Sale SGST           	              	1428166.63
-Sale IGST 12%                                  	Sale IGST           	              	34217.07
-Sale IGST 18%                                  	Sale IGST           	              	169.49
-SAMEENA MEDICOSE                               	Customers Sundry Deb	       5009.00	              
-SAMREEN MEDICAL STORE                          	Customers Sundry Deb	              	15.00
-SANDEEP MEDICAL AGENCY                         	Customers Sundry Deb	          6.00	              
-SANDEEP MEDICAL STORE                          	Customers Sundry Deb	     121719.00	              
-SANDEEP PHARMA                                 	Customers Sundry Deb	         49.00	              
-SANGAM HEALTH CARE                             	Customers Sundry Deb	        766.00	              
-SANGAM PHARMA                                  	Customers Sundry Deb	         24.00	              
-SANJAY MEDICAL AGENCY                          	Customers Sundry Deb	      40106.00	              
-SANJAY MEDICAL AGENCY                          	Customers Sundry Deb	        537.00	              
-SANJAY MEDICALS                                	Customers Sundry Deb	       5600.00	              
-SANJAY MEDICOSE                                	Customers Sundry Deb	              	855.00
-SAPNA MEDICAL STORE                            	Customers Sundry Deb	       8041.00	              
-SARAL MEDICAL STORE                            	Customers Sundry Deb	       1014.00	              
-SARKAR TRADERS                                 	Customers Sundry Deb	       1242.00	              
-SATISH MEDICAL STORE                           	Customers Sundry Deb	        901.00	              
-SATISH PHRAMA                                  	Customers Sundry Deb	         93.00	              
-SAVICA PHARMACY                                	Customers Sundry Deb	       4847.00	              
-SAVITRI PHARMA                                 	Customers Sundry Deb	              	230604.00
-SAXENA MEDICAL STORE                           	Customers Sundry Deb	       6154.00	              
-SAXENA MEDICAL STORE                           	Customers Sundry Deb	        210.00	              
-SAXENA NURSING HOME                            	Customers Sundry Deb	       1876.00	              
-SETH MEDICAL STORE                             	Customers Sundry Deb	        209.00	              
-SEVAK MEDICINE CENETR                          	Customers Sundry Deb	     141962.00	              
-SGST Payable                                   	Current Liabilities 	              	5460.72
-SHADI RAM & SONS                               	Customers Sundry Deb	              	1800.00
-SHAILENDRA MEDICAL STORE                       	Customers Sundry Deb	      27915.00	              
-SHAKTI MEDICAL STORE                           	Customers Sundry Deb	      31124.00	              
-SHAMA MEDICAL STORE                            	Customers Sundry Deb	       2015.00	              
-SHAMSHAD MEDICAL AGENCY                        	Customers Sundry Deb	      86109.00	              
-SHANTA PHARMACEUTICALS                         	Customers Sundry Deb	              	472.00
-SHANTI MEDICALS                                	Customers Sundry Deb	        748.00	              
-SHANTI MEDICOSE                                	Customers Sundry Deb	       2954.00	              
-SHANU COSMETICS                                	Customers Sundry Deb	       5000.00	              
-SHARDA PHARMA                                  	Customers Sundry Deb	              	82.00
-SHARMA MEDICINES                               	Customers Sundry Deb	      16656.00	              
-SHASHI PHARMA                                  	Customers Sundry Deb	          2.00	              
-SHEKHAR HOSPITAL                               	Customers Sundry Deb	        966.00	              
-SHEKHAR MEDICAL STORE                          	Customers Sundry Deb	              	1100.00
-SHIKHA RASTOGI                                 	EXPENSES (INDIRECT/A	              	1115000.00
-SHINE MEDICAL AGENCY                           	Customers Sundry Deb	              	186.00
-SHIPRA PHARMACHEUTICAL                         	Customers Sundry Deb	       1578.00	              
-SHIV ENTERPRISES                               	Customers Sundry Deb	      32429.00	              
-SHIV MEDICAL HALL                              	Customers Sundry Deb	              	914.00
-SHIV MEDICALS                                  	Supplier Sundry Cred	              	25217.00
-SHIV PHARMECY                                  	Customers Sundry Deb	       4413.00	              
-SHIV SAKHI MEDICALS                            	Customers Sundry Deb	      14669.00	              
-SHIVAM ENTERPRISES                             	Customers Sundry Deb	              	429.00
-SHIVAM MEDICAL PHARMA                          	Customers Sundry Deb	              	206.00
-SHIVANI MEDICAL STORE                          	Customers Sundry Deb	              	20.00
-            C A R R Y   F O R W A R D -------->	                    	  190935144.44	184710279.68
-        B R O U G H T   F O R W A R D -------->	                    	  190935144.44	184710279.68
-SHORADHA PHARMA                                	Customers Sundry Deb	     562642.00	              
-SHRADHANI ENTERPRIJEJ                          	Customers Sundry Deb	      27137.00	              
-SHRESTHA PHARMA                                	Customers Sundry Deb	              	1.00
-SHUBH ANANDAM PHARMA                           	Customers Sundry Deb	      79224.00	              
-SHUBH PHARMACEUTICALS                          	Customers Sundry Deb	      37224.00	              
-SHUBHAM MALHOTRA MACMILLON                     	Customers Sundry Deb	              	5598.00
-SHUBHAM MEDICAL AGENCY                         	Customers Sundry Deb	              	20.00
-SHUBHAM MEDICALS                               	Customers Sundry Deb	         45.00	              
-SHUBHAM PHARMACY                               	Customers Sundry Deb	       1474.00	              
-SHUCHITA RETAIL (P) LTD                        	Customers Sundry Deb	      35202.00	              
-SHUKLA PHARMA                                  	Customers Sundry Deb	       8947.00	              
-SHYAM PHARMACEUTICALS                          	Customers Sundry Deb	          4.00	              
-SINGH ENTERPRISES                              	Customers Sundry Deb	      12624.00	              
-SINGH MEDICAL AGENCY                           	Customers Sundry Deb	         85.00	              
-SINGH MEDICAL STORE                            	Customers Sundry Deb	       5007.00	              
-SINGH MEDICAL STORE                            	Customers Sundry Deb	      76375.00	              
-SINGHAL AIRCONDITIONING                        	Customers Sundry Deb	      67763.00	              
-SINGHAL DISTRIBUTORS                           	Customers Sundry Deb	              	1.00
-SONI MEDICAL STORE                             	Customers Sundry Deb	         73.00	              
-SONIA EMPLOY                                   	Supplier Sundry Cred	       6688.00	              
-SONU EMPLOY                                    	Customers Sundry Deb	       2500.00	              
-SOPAN RAMDAS GAIKR                             	Customers Sundry Deb	      11500.00	              
-SPARSH CHILDERNS HOSPITAL                      	Customers Sundry Deb	       1108.00	              
-SPARSH KLINIC-SKIN CARE                        	Customers Sundry Deb	              	6525.00
-SRAVASTI MEDICAL AGENCY                        	Customers Sundry Deb	              	1.00
-SRI AMAR AYURVED ASHRAM                        	Deposits (Asset)    	              	117850.00
-SRI AMAR AYURVEDIC ASHRAM2                     	Deposits (Asset)    	     391280.00	              
-SRI AMAR AYURVEDIC ASHRAM3                     	Deposits (Asset)    	     284050.00	              
-SRI BAIDYANATH AYURVED BHAWAN PVT. LTD         	Customers Sundry Deb	              	347309.00
-SRI BALA JI MEDICALS                           	Customers Sundry Deb	              	6165.00
-SRI BALAJI MEDICAL AGENCIES                    	Customers Sundry Deb	        318.00	              
-SRI GANPATI ENTERPRISES                        	Customers Sundry Deb	      15601.00	              
-SRI KRISHNA PHARMA                             	Customers Sundry Deb	      27375.00	              
-SRI LOKESH PHARMA                              	Customers Sundry Deb	         63.00	              
-SRI MEDICOSE                                   	Customers Sundry Deb	       1400.00	              
-SRI NARAYANI TRADING COMPANY                   	Supplier Sundry Cred	              	4571.00
-SRI PHARMACEUTICALS                            	Customers Sundry Deb	      18218.00	              
-SRI RADHEY ASSOCIATES                          	Customers Sundry Deb	       1461.00	              
-SRI RADHEY KRISHNA AYURVEDIC                   	Customers Sundry Deb	       3050.00	              
-SRI RADHEY PHARMA                              	Customers Sundry Deb	      52455.00	              
-SRI RAM HOSPITAL                               	Customers Sundry Deb	       2727.00	              
-SRI RAM JANAM BHOOMI                           	Customers Sundry Deb	      11000.00	              
-SRI RAM MEDICARE                               	Customers Sundry Deb	       1693.00	              
-SRI RAM PHARMA                                 	Customers Sundry Deb	        340.00	              
-SRI SATGURU MEDICINE                           	Customers Sundry Deb	              	1.00
-SRI SHAKTI DRUG AGENCIES                       	Sundry Debtors(Consi	      29783.00	              
-SRI SHYAM ENTERPRISES                          	Supplier Sundry Cred	              	41216.00
-SRI SHYAM MEDICAL STORE                        	Supplier Sundry Cred	       1269.00	              
-SRI TIRUPATI PHARMA                            	Customers Sundry Deb	       5878.00	              
-SRI VAISHNO PHARMACEUTICALS                    	Supplier Sundry Cred	       1767.00	              
-SRI VINAYAK MEDICAL HALL                       	Customers Sundry Deb	       7959.00	              
-SRISHTI PHARMA                                 	Customers Sundry Deb	      18436.00	              
-STANDARD MEDICAL HALL                          	Customers Sundry Deb	          1.00	              
-STAR PHARMA                                    	Customers Sundry Deb	      69211.00	              
-SUKHMANI AGENCIES                              	Customers Sundry Deb	          2.00	              
-SUNEET KUMAR RASTOGI                           	Cash-in-hand        	     912150.00	              
-SUNNY AGENCIES                                 	Loans & Advances (As	      30000.00	              
-SUNNY TRADERS                                  	Customers Sundry Deb	     297426.00	              
-SUNRISE MEDICAL PHARMECY                       	Customers Sundry Deb	        869.00	              
-            C A R R Y   F O R W A R D -------->	                    	  194056548.44	185239537.68
-        B R O U G H T   F O R W A R D -------->	                    	  194056548.44	185239537.68
-SURYA AGENCY                                   	Customers Sundry Deb	        930.00	              
-SUSHIL EMPLOYE                                 	SalaryPayble        	       3622.00	              
-SUYASH MEDICALS                                	Customers Sundry Deb	       2256.00	              
-SWARAA MEDICAL STORE                           	Customers Sundry Deb	       2432.00	              
-SWAROOP AGENCIES                               	Customers Sundry Deb	      64559.00	              
-SWAROOP PHARMACEUTICALS                        	Customers Sundry Deb	     158988.00	              
-SWATI MEDICAL AGENCIES                         	Customers Sundry Deb	       3000.00	              
-SYNDICATE BANK                                 	Bank Accounts       	     719000.00	              
-SYNDICATE BANK NEW                             	Customers Sundry Deb	     194900.00	              
-SYNDICATE CANARA                               	Customers Sundry Deb	      84600.00	              
-TANISH RASTOGI                                 	Customers Sundry Deb	      59011.80	              
-TARUN MEDICAL STORE                            	Supplier Sundry Cred	       6202.00	              
-TAX RETURN                                     	Customers Sundry Deb	      30000.00	              
-TCS .75%                                       	Customers Sundry Deb	        366.50	              
-TCS PAID                                       	EXPENSES (INDIRECT/A	      21067.92	              
-TELIPHONE BILLS                                	Supplier Sundry Cred	      51507.00	              
-THE HIMALAYA DRUG COMPANY                      	Supplier Sundry Cred	              	223562.48
-TRAVELLING EXP                                 	Suspense A/c        	       3000.00	              
-TRIPATHI MEDICAL STORE                         	Customers Sundry Deb	       7400.00	              
-TRIPURARI MEDICAL AGENCY                       	Customers Sundry Deb	       1949.00	              
-UJJWAL PHARMA                                  	Customers Sundry Deb	     132188.00	              
-UMESH MEDICAL AGENCY                           	Customers Sundry Deb	         60.00	              
-UNIQUE PHARMA                                  	Customers Sundry Deb	      67514.00	              
-UNIQUE PHARMA                                  	Customers Sundry Deb	       8748.00	              
-V D S ENTERPRISES                              	Customers Sundry Deb	              	64118.00
-V.L.ENTERPRISES                                	Customers Sundry Deb	      40000.00	              
-VAIBHAV MEDICOSE                               	Customers Sundry Deb	      21294.00	              
-VAISHNAVI AGENCIES                             	Customers Sundry Deb	              	30767.00
-VAISHNAVI PHARMA                               	Customers Sundry Deb	              	3318.00
-VAISHNAVI PHARMA                               	Customers Sundry Deb	      23168.00	              
-VAISHNO PHARMA                                 	Customers Sundry Deb	     170831.00	              
-VARDHMAN DRUG STORE                            	Customers Sundry Deb	              	25118.00
-VARDHMAN PHARMACEUTICALS                       	Supplier Sundry Cred	              	86674.00
-VAT TAX                                        	Current Liabilities 	     163440.00	              
-VEERU PIRAMAL MEDICAL                          	Customers Sundry Deb	      10794.00	              
-VERBIANCE LIFESCIENCE PVT.LTD.                 	Customers Sundry Deb	              	341804.00
-VERDMAN MEDICAL STORE                          	Supplier Sundry Cred	      51076.00	              
-VERMA MEDICAL CENTER                           	Customers Sundry Deb	       3234.00	              
-VERMA MEDICAL HALL                             	Customers Sundry Deb	       7137.00	              
-VIDHYANCHAL MEDICAL STORE                      	Customers Sundry Deb	              	13787.00
-VIJAY MEDICAL STORES                           	Customers Sundry Deb	        342.00	              
-VIJJWAL MEDICALS                               	Customers Sundry Deb	       9579.00	              
-VIKAS C/O MEENU WEARS                          	Customers Sundry Deb	        395.00	              
-VIKRAM HOSPITAL C/O DR.SACHIN VERMA            	Customers Sundry Deb	       4477.00	              
-VIMAL MEDICAL AGENCIES                         	Customers Sundry Deb	       1513.00	              
-VIMAL MEDICAL STORE                            	Supplier Sundry Cred	       1693.00	              
-VIMLESH MEDICAL AGENCY                         	Customers Sundry Deb	          1.00	              
-VINAY SALES & MARKETING                        	Supplier Sundry Cred	      30885.00	              
-VINAYAK PHARMA                                 	Customers Sundry Deb	        238.00	              
-VINAYAK PHARMACEUTICALS                        	Customers Sundry Deb	       1534.00	              
-VINEET RASTOGI HOME LOAN A/C                   	Suspense A/c        	    1090000.00	              
-VINOD PHARMACEUTICALS DISTRIBUTORS             	Customers Sundry Deb	       8166.00	              
-VINOD PHARMACUTICALS                           	Customers Sundry Deb	      63936.00	              
-VINOD PHARMACY                                 	Customers Sundry Deb	       1588.00	              
-VIRAT DRUG & DISTRIBUTORS                      	Customers Sundry Deb	        236.00	              
-VISHAL MEDICINE &SURGICALS                     	Customers Sundry Deb	      16985.00	              
-VISHAL PHARMA                                  	Customers Sundry Deb	      10507.00	              
-VISWAKARMA MEDICAL STORE                       	Customers Sundry Deb	       4913.00	              
-VIVEK MEDICAL STORE                            	Customers Sundry Deb	       2148.00	              
-            C A R R Y   F O R W A R D -------->	                    	  197419959.66	186028686.16
-        B R O U G H T   F O R W A R D -------->	                    	  197419959.66	186028686.16
-WALI MEDICAL STORE                             	Customers Sundry Deb	        839.00	              
-WESTERN DRUG AGENCY                            	Customers Sundry Deb	       3649.00	              
-WOMEN STORE                                    	Customers Sundry Deb	       1846.00	              
-YASHODA PHARMA                                 	Customers Sundry Deb	      13654.00	              
-ZAREEN MEDICALS                                	Customers Sundry Deb	        449.00	              
-                                    GRAND TOTAL	                    	  197440396.66	186028686.16
-Trial Difference [Closing 11411710.50 Dr]			
+              SUNNY AGENCIES              
+                            LG-30/31, NEW MEDICNE MARKET                            
+                                 G.B. MARG,LUCKNOW                                  
+ 
+                               (As On : 01/Apr/2023)                                
+ 
+Closing Balances                                                   Page No. :      1
+--------------------------------------------------------------------------------------------------
+Account                                        |Group               |   Closing(Dr)|   Closing(Cr)
+--------------------------------------------------------------------------------------------------
+32 MEDICINE POINT                              |Customers Sundry Deb|              |          2.00
+A.C.DISTRIBUTORS                               |Supplier Sundry Cred|              |      95619.00
+A.R.J HOSPITAL                                 |Customers Sundry Deb|       4265.00|              
+A/C DIFF                                       |Misc. Expenses (ASSE|     355780.00|              
+ABHISHEK MEDICAL STORE-1                       |Customers Sundry Deb|       4530.00|              
+ABHISHEK MEDICAL STORE-2                       |Customers Sundry Deb|       3496.00|              
+ACHARYA ENTERPRISES                            |Customers Sundry Deb|              |     104002.00
+ADARSH AGENCIES 555                            |Supplier Sundry Cred|              |       6800.00
+ADARSH MEDICAL STORE                           |Customers Sundry Deb|              |        319.00
+Add Amt                                        |Suspense A/c        |              |       1631.52
+ADIL MEDICAL AGENCY                            |Customers Sundry Deb|      27741.00|              
+ADJESTMENT                                     |Misc. Expenses (ASSE|              |      77600.00
+ADJESTMENT BLUE CROSS SANJAY                   |Customers Sundry Deb|              |     530778.00
+ADJUSTMENT BLUE CROSS                          |Misc. Expenses (ASSE|              |      66009.00
+ADJUSTMENT CORE                                |Misc. Expenses (ASSE|              |       3200.00
+ADJUSTMENT HIMALYA                             |Misc. Expenses (ASSE|              |      88434.00
+ADVANCE INCOME TAX                             |Suspense A/c        |     151008.26|              
+AFREEN MEDICAL STORE                           |Customers Sundry Deb|      11000.00|              
+AGARHARI MEDICAL AGENCY                        |Customers Sundry Deb|         86.00|              
+AGARWAL MEDICAL AGENCIES                       |Customers Sundry Deb|         54.00|              
+AGARWAL PHARMACUITCALS                         |Customers Sundry Deb|        796.00|              
+AKSHARA ENTERPRISES                            |Customers Sundry Deb|              |          3.00
+ALLIED PHARMACEUTICALS                         |Sundry Debtors(Consi|      50679.00|              
+ALMAS PHARMEACY                                |Customers Sundry Deb|       3843.00|              
+AMAR DRUG AGENCIES                             |Customers Sundry Deb|      42643.00|              
+AMAR MEDICAL STORE                             |Customers Sundry Deb|      44930.00|              
+ANAM PHARMA                                    |Customers Sundry Deb|        425.00|              
+ANAND HOSPITAL                                 |Customers Sundry Deb|      12924.00|              
+ANAS MEDICAL STORE                             |Customers Sundry Deb|         20.00|              
+ANGLO-FRANCH DRUG & INDUSTRIES LTD             |Supplier Sundry Cred|              |      88334.00
+ANIL ENTERPRISES                               |Customers Sundry Deb|       4474.00|              
+ANJANI PHARMA                                  |Customers Sundry Deb|         20.00|              
+ANJU JAIN MEDICAL                              |Customers Sundry Deb|        425.00|              
+ANKIT PHARMA                                   |Customers Sundry Deb|       2880.00|              
+ANSAL MEDICAL STORE                            |Customers Sundry Deb|       1034.00|              
+ANSH PHARMA                                    |Customers Sundry Deb|      31113.00|              
+ANSHU MEDICAL STORE                            |Customers Sundry Deb|      59090.00|              
+ANUJ JAIN MEDICAL                              |Customers Sundry Deb|       2081.00|              
+APURVA PHARMA                                  |Customers Sundry Deb|        100.00|              
+ARCHANA MEDICINES                              |Customers Sundry Deb|      28649.00|              
+ARIF MEDICAL STORE                             |Customers Sundry Deb|        210.00|              
+ARISTO PHARMEUTICALS PVT.LTD.                  |Supplier Sundry Cred|              |      96978.39
+ARPIT MEDICARE                                 |Supplier Sundry Cred|       1874.00|              
+AS PHARMACY                                    |Customers Sundry Deb|       2209.00|              
+ASHIRWAD HOSPITAL                              |Customers Sundry Deb|       1701.00|              
+ASHISH MEDICAL STORE                           |Customers Sundry Deb|         17.00|              
+ASHOK MEDICAL HALL                             |Customers Sundry Deb|        121.00|              
+ASHOKA SALES CORPORATION                       |Customers Sundry Deb|              |       6605.00
+AVI ENTERPRISES                                |Customers Sundry Deb|       1623.00|              
+AVIGHN ENETRPRISES                             |Customers Sundry Deb|        240.00|              
+AWADH MEDICAL STORE                            |Customers Sundry Deb|              |          1.00
+AWASTHI MEDICAL STORE                          |Customers Sundry Deb|      23707.00|              
+AWDHESH EMPLOYE                                |Misc. Expenses (ASSE|       1100.00|              
+AYUSH MEDICAL STORE                            |Customers Sundry Deb|      88090.00|              
+AYUSHMAN HEALTH CENTRE                         |Customers Sundry Deb|      11007.00|              
+--------------------------------------------------------------------------------------------------
+            C A R R Y   F O R W A R D -------->|                    |     975985.26|    1166315.91
+--------------------------------------------------------------------------------------------------
+                                                                                          (P.T.O.)
+SUNNY AGENCIES                                                 (As On : 01/Apr/2023)
+Closing Balances                                                   Page No. :      2
+--------------------------------------------------------------------------------------------------
+Account                                        |Group               |   Closing(Dr)|   Closing(Cr)
+--------------------------------------------------------------------------------------------------
+        B R O U G H T   F O R W A R D -------->|                    |     975985.26|    1166315.91
+AYUSHMAN HOSPITAL                              |Customers Sundry Deb|       2659.00|              
+B.L.PHARMACUTICALS                             |Customers Sundry Deb|              |          1.00
+B.S. PHARMA                                    |Customers Sundry Deb|        557.00|              
+B.U.N.N. PHARMA                                |Customers Sundry Deb|              |       1546.00
+BABA HOSPITAL MEDICAL STORE                    |Customers Sundry Deb|       3828.00|              
+BAGHEL HOSPITAL PHARMACY                       |Customers Sundry Deb|      75236.00|              
+BAJAJ ALIZENGE INSURANCE                       |Suspense A/c        |      36157.00|              
+BAJPAI CLINIC                                  |Customers Sundry Deb|      19774.00|              
+BAJRANG PHARMA                                 |Customers Sundry Deb|       2101.00|              
+BALA JI MEDICAL AGENCY                         |Customers Sundry Deb|        954.00|              
+BALAJI PHARMACEUTICALS                         |Customers Sundry Deb|      61701.00|              
+BALANACE                                       |Misc. Expenses (ASSE|              |      15206.00
+BANGALI CLINIC                                 |Customers Sundry Deb|       2606.00|              
+BANK CHARGES HDFC BANK                         |Suspense A/c        |        262.70|              
+BAPU MEDICAL HALL                              |Customers Sundry Deb|      12892.00|              
+BEST CARE MEDICAL STORE                        |Customers Sundry Deb|              |       2781.00
+BETU MEDICAL STORE                             |Customers Sundry Deb|        672.00|              
+BHAGIRATH AGENCY                               |Customers Sundry Deb|      39327.00|              
+BHAGWATI PHARMA                                |Customers Sundry Deb|              |          4.00
+BHAGWATI PHARMACEUTICALS                       |Customers Sundry Deb|       2244.00|              
+BHARAT MEDICAL AGENCY                          |Customers Sundry Deb|        470.00|              
+BHARAT MEDICAL STORE                           |Customers Sundry Deb|         93.00|              
+BHARAT MEDICAL STORE                           |Customers Sundry Deb|     182286.00|              
+BHARTI AIRTEL LTD                              |Customers Sundry Deb|      16394.00|              
+BHATIA MEDICAL STORE                           |Customers Sundry Deb|      12766.00|              
+BHATIA MEDICAL STORE******                     |Customers Sundry Deb|      43512.00|              
+BHAVY MEDICAL STORE                            |Customers Sundry Deb|       1525.00|              
+BHOLA NATH & SONS                              |Customers Sundry Deb|      45726.00|              
+BHOLA PHARMA                                   |Customers Sundry Deb|       1957.00|              
+BHOLE NATH MEDICAL AGENCIES                    |Customers Sundry Deb|        232.00|              
+BLUE CROSS LABORATORIES PVT LTD.               |Supplier Sundry Cred|              |      86783.44
+BREAK POINT                                    |Customers Sundry Deb|      66089.00|              
+CANARA BANK IInd                               |Bank Accounts       |     232558.00|              
+CAR LOAN                                       |Loans (Liability)   |    1337929.00|              
+CARE MEDICAL STORE                             |Customers Sundry Deb|        450.00|              
+CASH                                           |Cash-in-hand        |     125888.00|              
+CASH HANDLING CHARGES                          |Suspense A/c        |       2563.00|              
+CASH SALE                                      |Customers Sundry Deb|              |       4300.00
+CERDIT NOTE                                    |Customers Sundry Deb|      25056.00|              
+CHANDRA PHARMA                                 |Supplier Sundry Cred|              |       2068.00
+CHARAK HEALTH CARE AND DENTAL CLINIC           |Customers Sundry Deb|        654.00|              
+CHEQ.RETURN                                    |Misc. Expenses (ASSE|       6272.00|              
+CHHABI  MEDICALS                               |Customers Sundry Deb|        267.00|              
+CHITTRANSH MEDICAL STORE                       |Customers Sundry Deb|       6041.00|              
+CIPLA                                          |Supplier Sundry Cred|     473583.65|              
+CIPLA HEALTH                                   |Supplier Sundry Cred|              |      69100.64
+CNS PHARMECY                                   |Customers Sundry Deb|       3858.00|              
+COCHLEA MEDICALSTORE                           |Customers Sundry Deb|       1436.00|              
+Credit Note                                    |Suspense A/c        |      24267.00|              
+CREDIT NOTE                                    |Misc. Expenses (ASSE|              |      10476.00
+CUEWIN PHARMACY                                |Customers Sundry Deb|       4351.00|              
+D.PHARMA                                       |Customers Sundry Deb|      85265.00|              
+DEEP MEDICAL & SURGICAL                        |Customers Sundry Deb|      46783.00|              
+DEEP RAJ PHARMA                                |Customers Sundry Deb|         45.00|              
+DEEPAK ENTERPRISES                             |Customers Sundry Deb|      24550.00|              
+DEEWAN ENT CLINIC                              |Customers Sundry Deb|       5803.00|              
+DELHI MEDICAL AGENCY                           |Customers Sundry Deb|         97.00|              
+DERMA PHARMACY                                 |Customers Sundry Deb|       4545.00|              
+DEVAKI HOSPITAL                                |Customers Sundry Deb|        675.00|              
+--------------------------------------------------------------------------------------------------
+            C A R R Y   F O R W A R D -------->|                    |    4020942.61|    1358581.99
+--------------------------------------------------------------------------------------------------
+                                                                                          (P.T.O.)
+SUNNY AGENCIES                                                 (As On : 01/Apr/2023)
+Closing Balances                                                   Page No. :      3
+--------------------------------------------------------------------------------------------------
+Account                                        |Group               |   Closing(Dr)|   Closing(Cr)
+--------------------------------------------------------------------------------------------------
+        B R O U G H T   F O R W A R D -------->|                    |    4020942.61|    1358581.99
+DEVAKI PHARMACEUTICALS                         |Customers Sundry Deb|        588.00|              
+DEY'S MEDICAL STORE (MFG) LTD.                 |Supplier Sundry Cred|              |     184363.98
+DIDWANIA MEDICINE HOUSE ***********            |Customers Sundry Deb|          1.00|              
+DIFFRENCE                                      |Misc. Expenses (ASSE|     425181.52|              
+DIPTY PHARMA                                   |Customers Sundry Deb|     125000.00|              
+DIPTY PHARMA -5                                |Customers Sundry Deb|              |     125400.00
+DIPTY PHARMA 1                                 |Customers Sundry Deb|     502300.00|              
+DIPTY PHARMA 19/2/23                           |Customers Sundry Deb|      94400.00|              
+DIPTY PHARMA 4                                 |Customers Sundry Deb|              |      64700.00
+DIPTY PHARMA 6                                 |Customers Sundry Deb|     291150.00|              
+Discount                                       |Suspense A/c        |       2545.67|              
+DR. MANISHA ASTHANA                            |Customers Sundry Deb|       4231.00|              
+DR. S.K GUPTA                                  |Customers Sundry Deb|        334.00|              
+DR.A.A.QURAISHI                                |Customers Sundry Deb|        877.00|              
+DR.A.K. DIWEDI                                 |Customers Sundry Deb|       1700.00|              
+DR.A.K.BISWAS                                  |Customers Sundry Deb|        608.00|              
+DR.A.K.GUPTA                                   |Customers Sundry Deb|        508.00|              
+DR.A.K.JAIN                                    |Customers Sundry Deb|       1279.00|              
+DR.A.K.KIDVAIA  12037                          |Customers Sundry Deb|        581.00|              
+DR.A.K.MAURYA                                  |Customers Sundry Deb|        405.00|              
+DR.A.K.SHARMA                                  |Customers Sundry Deb|       7624.00|              
+DR.A.K.SHARMA                                  |Customers Sundry Deb|        877.00|              
+DR.A.K.TRIPATHI                                |Customers Sundry Deb|       2324.00|              
+DR.A.K.TRIPATHI  27288                         |Customers Sundry Deb|              |        472.00
+DR.A.K.VERMA                                   |Customers Sundry Deb|        959.00|              
+DR.A.K.VERMA                                   |Customers Sundry Deb|        624.00|              
+DR.A.P. TIWARI                                 |Customers Sundry Deb|        210.00|              
+DR.A.R ANSARI                                  |Customers Sundry Deb|       1368.00|              
+DR.AARIF SIDDIQUI                              |Customers Sundry Deb|        643.00|              
+DR.ABHAY KRISHNA                               |Customers Sundry Deb|       3909.00|              
+DR.ABHISHEK AGARWAL                            |Customers Sundry Deb|        877.00|              
+DR.ABUZAR ALI                                  |Customers Sundry Deb|        704.00|              
+DR.ADIL KHAN                                   |Customers Sundry Deb|       3780.00|              
+DR.AFSAR RAZA                                  |Customers Sundry Deb|       1338.00|              
+DR.AFZAL ANSARI                                |Customers Sundry Deb|       2256.00|              
+DR.AJAY MASIH                                  |Customers Sundry Deb|        221.00|              
+DR.AKHILESH GUPTA                              |Customers Sundry Deb|        350.00|              
+DR.AKHILESH KUMAR VERMA                        |Customers Sundry Deb|        879.00|              
+DR.ALOK RAI                                    |Customers Sundry Deb|       1412.00|              
+DR.ANAND SINGH                                 |Customers Sundry Deb|       9203.00|              
+DR.ANIKESH PIRAMAL                             |Customers Sundry Deb|     192258.26|              
+DR.ANIL KUMAR                                  |Customers Sundry Deb|       3850.00|              
+DR.ANKIT SHRIVASTAVA                           |Customers Sundry Deb|      10671.00|              
+DR.AR ANSHARI                                  |Customers Sundry Deb|       2256.00|              
+DR.ARCHANA KANODIA                             |Customers Sundry Deb|       1015.00|              
+DR.B.D.GUPTA                                   |Customers Sundry Deb|        379.00|              
+DR.B.LAL                                       |Customers Sundry Deb|        874.00|              
+DR.B.P.ANAND                                   |Customers Sundry Deb|       5700.00|              
+DR.BANSIDHAR GUPTA                             |Customers Sundry Deb|        513.00|              
+DR.C.P.MAURYA                                  |Customers Sundry Deb|       6000.00|              
+DR.C.S.GUPTA                                   |Customers Sundry Deb|       4471.00|              
+DR.D.D.CHAUHAN                                 |Customers Sundry Deb|       1974.00|              
+DR.D.K.SINGH                                   |Customers Sundry Deb|       5438.00|              
+DR.D.K.VERMA                                   |Customers Sundry Deb|      11599.00|              
+DR.D.P.MISHRA                                  |Customers Sundry Deb|       1114.00|              
+DR.DEVESH PANDAY                               |Customers Sundry Deb|       2650.00|              
+DR.DHANWANT KUMAR                              |Customers Sundry Deb|        730.00|              
+DR.DIVYA PRAKESH SHARMA                        |Customers Sundry Deb|       7510.00|              
+DR.FAISAL ZIA                                  |Customers Sundry Deb|              |       7925.00
+--------------------------------------------------------------------------------------------------
+            C A R R Y   F O R W A R D -------->|                    |    5771192.06|    1741442.97
+--------------------------------------------------------------------------------------------------
+                                                                                          (P.T.O.)
+SUNNY AGENCIES                                                 (As On : 01/Apr/2023)
+Closing Balances                                                   Page No. :      4
+--------------------------------------------------------------------------------------------------
+Account                                        |Group               |   Closing(Dr)|   Closing(Cr)
+--------------------------------------------------------------------------------------------------
+        B R O U G H T   F O R W A R D -------->|                    |    5771192.06|    1741442.97
+DR.FAZLUR REHMAN                               |Customers Sundry Deb|        684.00|              
+DR.FIROJ AHMAD                                 |Customers Sundry Deb|       1155.00|              
+DR.G.S SINGH                                   |Customers Sundry Deb|        611.00|              
+DR.G.S.MISHRA                                  |Customers Sundry Deb|       4222.00|              
+DR.G.S.MISHRA                                  |Customers Sundry Deb|       1404.00|              
+DR.GAUTAM SAXENA                               |Customers Sundry Deb|       1216.00|              
+DR.HIMANSHU SINGH                              |Customers Sundry Deb|       5523.00|              
+DR.I.A.SIDDIQUI                                |Customers Sundry Deb|       1134.00|              
+DR.IK KHAN                                     |Customers Sundry Deb|       4751.00|              
+DR.J.A. FAROOQHI                               |Customers Sundry Deb|       1139.00|              
+DR.J.S.BHATIA                                  |Customers Sundry Deb|      18759.00|              
+DR.JANARDAN MISHRA                             |Customers Sundry Deb|      21835.00|              
+DR.JASBIR SINGH                                |Customers Sundry Deb|       1483.00|              
+DR.K.G.GUPTA                                   |Customers Sundry Deb|       8724.00|              
+DR.K.R.VERMA                                   |Customers Sundry Deb|        418.00|              
+DR.L.N VAISHAY                                 |Customers Sundry Deb|       6381.00|              
+DR.LAXMI NARAYAN VAISH                         |Customers Sundry Deb|       5796.00|              
+DR.LUV SRIVASTAVA                              |Customers Sundry Deb|              |        452.00
+DR.M.AHMAD                                     |Customers Sundry Deb|       7675.00|              
+DR.M.K.GUPTA                                   |Customers Sundry Deb|        527.00|              
+DR.M.K.RAGHUVANSHI                             |Customers Sundry Deb|        720.00|              
+DR.M.N ANSARI                                  |Customers Sundry Deb|       6684.00|              
+DR.M.N.HASAN                                   |Customers Sundry Deb|       7027.00|              
+DR.M.P. ANSARI                                 |Customers Sundry Deb|       5811.00|              
+DR.M.S. ANSARI                                 |Customers Sundry Deb|      32298.00|              
+DR.M.Y.QURESHI                                 |Customers Sundry Deb|       1316.00|              
+DR.MANOJ KUMAR SINGH                           |Customers Sundry Deb|        429.00|              
+DR.MOH.HAMIDULLAH                              |Customers Sundry Deb|        430.00|              
+DR.MOH.TABISH SIDDIQUI                         |Customers Sundry Deb|       3598.00|              
+DR.MOHAMAD ASIM KHAN                           |Customers Sundry Deb|      11455.00|              
+DR.N.P GULATI                                  |Customers Sundry Deb|       1247.00|              
+DR.NEETA KHARE                                 |Customers Sundry Deb|       2704.00|              
+DR.NIRAJ TANDAN                                |Customers Sundry Deb|       1500.00|              
+DR.O.P.MISHRA                                  |Customers Sundry Deb|       3098.00|              
+DR.O.P.TANDON                                  |Customers Sundry Deb|       1830.00|              
+DR.PARUL PRASAD                                |Customers Sundry Deb|      18661.00|              
+DR.PAWAN PANDAY                                |Customers Sundry Deb|       3022.00|              
+DR.POONAM SINGH                                |Customers Sundry Deb|      13953.00|              
+DR.PRAMOD AGARWAL                              |Customers Sundry Deb|       2266.00|              
+DR.R.B.MISHRA NILESH                           |Customers Sundry Deb|       7720.00|              
+DR.R.C.AGARWAL                                 |Customers Sundry Deb|       3160.00|              
+DR.R.K.AWASTHI*******                          |Customers Sundry Deb|         86.00|              
+DR.R.K.GUPTA                                   |Customers Sundry Deb|         54.00|              
+DR.R.K.MISHRA                                  |Customers Sundry Deb|        286.00|              
+DR.R.P.MAURYA                                  |Customers Sundry Deb|        406.00|              
+DR.R.P.PANDEY                                  |Customers Sundry Deb|       6935.00|              
+DR.R.P.SHUKLA                                  |Customers Sundry Deb|       1919.00|              
+DR.R.P.SINGH                                   |Sundry Debtors(Consi|      28244.00|              
+DR.RAJESH KHARE(SHIVA MULTI SPECIALITY HOSPITAL|Customers Sundry Deb|       9488.00|              
+DR.RAJESH MISHRA                               |Customers Sundry Deb|       2182.00|              
+DR.RAKESH KUMAR                                |Customers Sundry Deb|      16987.00|              
+DR.RAKESH KUMAR SHARMA                         |Customers Sundry Deb|     305220.25|              
+DR.RAKESH SHUKLA                               |Customers Sundry Deb|       2250.00|              
+DR.RANJAN KUMAR                                |Customers Sundry Deb|       2400.00|              
+DR.RITU SAXENA                                 |Customers Sundry Deb|       1156.00|              
+DR.RIYAZUDDIN AHMAD                            |Customers Sundry Deb|       1233.00|              
+DR.S.A SIDDIQUI                                |Customers Sundry Deb|       8049.00|              
+DR.S.ANAND                                     |Customers Sundry Deb|        382.00|              
+DR.S.B.MISHRA                                  |Customers Sundry Deb|       1472.00|              
+--------------------------------------------------------------------------------------------------
+            C A R R Y   F O R W A R D -------->|                    |    6382307.31|    1741894.97
+--------------------------------------------------------------------------------------------------
+                                                                                          (P.T.O.)
+SUNNY AGENCIES                                                 (As On : 01/Apr/2023)
+Closing Balances                                                   Page No. :      5
+--------------------------------------------------------------------------------------------------
+Account                                        |Group               |   Closing(Dr)|   Closing(Cr)
+--------------------------------------------------------------------------------------------------
+        B R O U G H T   F O R W A R D -------->|                    |    6382307.31|    1741894.97
+DR.S.BOSE                                      |Customers Sundry Deb|        602.00|              
+DR.S.K.SINGH                                   |Customers Sundry Deb|       1273.00|              
+DR.S.M.ARIF                                    |Customers Sundry Deb|        431.00|              
+DR.S.M.ARIF                                    |Customers Sundry Deb|       1128.00|              
+DR.S.N.SOFIYAN                                 |Customers Sundry Deb|       1426.00|              
+DR.S.P.GUPTA                                   |Customers Sundry Deb|      25823.00|              
+DR.S.S.CHAUHAN                                 |Customers Sundry Deb|        893.00|              
+DR.S.TRIVEDI                                   |Customers Sundry Deb|       1761.00|              
+DR.SACHIN KUMAR PATEL                          |Customers Sundry Deb|       5104.00|              
+DR.SALMAN ALI                                  |Customers Sundry Deb|       3660.00|              
+DR.SANJAY KHARE                                |Customers Sundry Deb|       1000.00|              
+DR.SANTOSH SINGH                               |Customers Sundry Deb|       1884.00|              
+DR.SARFARAJ AHMAD                              |Supplier Sundry Cred|       5419.00|              
+DR.SARFARAZ ALAM                               |Customers Sundry Deb|        560.00|              
+DR.SARTAJ ALAM                                 |Customers Sundry Deb|       7575.00|              
+DR.SATISH KUMAR                                |Customers Sundry Deb|        752.00|              
+DR.SHAILENDRA                                  |Customers Sundry Deb|       6470.00|              
+DR.SHARAD GUPTA                                |Customers Sundry Deb|       1557.00|              
+DR.SHARAD PANDAY                               |Customers Sundry Deb|        906.00|              
+DR.SHASHANK BHUSHAN                            |Customers Sundry Deb|        376.00|              
+DR.SHASHANK MATHUR HUF                         |Customers Sundry Deb|      74045.00|              
+DR.SHIVENDRA SRIVASTAV                         |Customers Sundry Deb|        289.00|              
+DR.SIDDHARATH PATEL                            |Customers Sundry Deb|      12515.00|              
+DR.SIRAJ AHMAD                                 |Customers Sundry Deb|        690.00|              
+DR.SM CHANDRA                                  |Customers Sundry Deb|       1410.00|              
+DR.SMITA GUPTA                                 |Customers Sundry Deb|       2170.00|              
+DR.SUNIL KHARE                                 |Customers Sundry Deb|       1042.00|              
+DR.SUNIL MEHROTRA  24179                       |Customers Sundry Deb|        126.00|              
+DR.SUSHIL KUMAR                                |Customers Sundry Deb|       2606.00|              
+DR.TAJ MOHAMAD                                 |Customers Sundry Deb|       7710.00|              
+DR.VEERU PIRAMAL                               |Customers Sundry Deb|       1904.00|              
+DR.VIJAY BAHADUR                               |Customers Sundry Deb|        759.00|              
+DR.VIJAY TIRVEDI                               |Customers Sundry Deb|       1231.00|              
+DR.VIRAT'S CHILD CARE                          |Customers Sundry Deb|       1241.00|              
+DR.VIRATS PHARMACY                             |Customers Sundry Deb|        121.00|              
+DR.W.U.ANSARI                                  |Customers Sundry Deb|       2455.00|              
+DR.WASEEK                                      |Customers Sundry Deb|       1186.00|              
+DR.YASHWANT SINGH                              |Customers Sundry Deb|       3120.00|              
+DR.Z.P.KHAN                                    |Customers Sundry Deb|       6105.00|              
+DRUG SALES AGENCY                              |Customers Sundry Deb|        600.00|              
+DUBEY MEDICAL AND SURGICAL                     |Customers Sundry Deb|       2726.00|              
+DURGA MEDICAL STORE                            |Customers Sundry Deb|      20000.00|              
+DURGA MEDICOS                                  |Customers Sundry Deb|       2955.00|              
+DWIVEDI MEDICAL HALL                           |Customers Sundry Deb|       2013.00|              
+DWIVEDI MEDICAL STORE                          |Customers Sundry Deb|         40.00|              
+EAGLE ELECTRONICS                              |Customers Sundry Deb|              |      21056.00
+EASTERN MEDICAL & SURGICAL CORP.               |Customers Sundry Deb|       1545.00|              
+EUGENICS MEDISCIENCES PVT LTD                  |Customers Sundry Deb|              |        368.00
+EXCEL LABOTRIES                                |Customers Sundry Deb|              |     370660.00
+EXCESS QUANTITY FOR CREDITE NOTE               |Supplier Sundry Cred|              |        769.00
+F.I.TRADERS                                    |Customers Sundry Deb|        992.00|              
+FAIRDEAL MEDICAL AGENCIES                      |Customers Sundry Deb|        236.00|              
+FAROOQUI MEDICAL HALL                          |Customers Sundry Deb|      44879.00|              
+FREE GOODS FROM CIPLA                          |Customers Sundry Deb|              |      11399.00
+FREIGHT & CARTIAGE                             |Suspense A/c        |              |       2359.60
+G.A PHARMA******************                   |Customers Sundry Deb|         23.00|              
+GANGA PHARMA                                   |Customers Sundry Deb|              |         28.00
+GENO PHARMACEUTICALS PVT.LTD                   |Supplier Sundry Cred|      13776.00|              
+GIRZA LAXMI MEDICAL STORE                      |Customers Sundry Deb|      18676.00|              
+--------------------------------------------------------------------------------------------------
+            C A R R Y   F O R W A R D -------->|                    |    6680093.31|    2148534.57
+--------------------------------------------------------------------------------------------------
+                                                                                          (P.T.O.)
+SUNNY AGENCIES                                                 (As On : 01/Apr/2023)
+Closing Balances                                                   Page No. :      6
+--------------------------------------------------------------------------------------------------
+Account                                        |Group               |   Closing(Dr)|   Closing(Cr)
+--------------------------------------------------------------------------------------------------
+        B R O U G H T   F O R W A R D -------->|                    |    6680093.31|    2148534.57
+GLAXOSMITHKLINE PHARMACEUTICALS LTD            |Supplier Sundry Cred|              |     105102.09
+GOEL PHARMA                                    |Supplier Sundry Cred|              |       4511.00
+GOLDEN MEDICAL AGENCY                          |Customers Sundry Deb|       7364.00|              
+GOODS RETURN                                   |Supplier Sundry Cred|              |      26515.00
+GOPAL ENTERPRISES                              |Customers Sundry Deb|       2033.00|              
+GOVERDHAN PHARMA                               |Customers Sundry Deb|       5904.00|              
+GREEN CITY PHARMACY                            |Customers Sundry Deb|      53180.00|              
+GST TAX                                        |Customers Sundry Deb|    3203173.00|              
+GUJARAT GROWMED MKT.(INDIA)PVT.LTD.            |Supplier Sundry Cred|              |      49838.00
+GUPTA MEDICAL STORE                            |Customers Sundry Deb|       2327.00|              
+GUPTA MEDICAL STORE                            |Customers Sundry Deb|       1321.00|              
+GUPTA MEDICAL STORE W.S                        |Customers Sundry Deb|       1220.00|              
+GYAN MEDICAL STORE                             |Customers Sundry Deb|      73202.00|              
+H.K.MEDICOSE                                   |Customers Sundry Deb|      19582.00|              
+HANUMANT MEDICALS                              |Customers Sundry Deb|      21343.00|              
+HANUMANT PHARMACEUTICALS                       |Customers Sundry Deb|      16163.00|              
+HANUMANT POLYCLINIC                            |Customers Sundry Deb|       1380.00|              
+HAPPY MEDICAL STORE                            |Customers Sundry Deb|       1254.00|              
+HARE KRISHNA PHARMA                            |Customers Sundry Deb|     215350.00|              
+HARI KRIPA PHARMA                              |Customers Sundry Deb|       8539.00|              
+HARI OM MEDICAL AGENCY                         |Customers Sundry Deb|              |          1.00
+HARI OM MEDICINES                              |Customers Sundry Deb|        259.00|              
+HAYAT CLINIC                                   |Customers Sundry Deb|       4413.00|              
+HDFC BANK                                      |Bank Accounts       |     320795.79|              
+HERITAGE HOSPITAL                              |Customers Sundry Deb|       2000.00|              
+HIMALAYA WELLNESS COMPANY                      |Customers Sundry Deb|              |      94514.36
+HIND COSMETIC CENTER                           |Customers Sundry Deb|       5073.00|              
+HIND MEDICAL AGENCY                            |Customers Sundry Deb|      83520.00|              
+HIND MEDICAL STORE                             |Customers Sundry Deb|       1723.00|              
+HINDUSTAN MEDICAL AGENCY                       |Customers Sundry Deb|         84.00|              
+HINDUSTAN PHARMA                               |Customers Sundry Deb|      17845.00|              
+HOME CARE HOSPITAL                             |Customers Sundry Deb|      42092.00|              
+HOUSE TAX                                      |Customers Sundry Deb|      27413.00|              
+ILAHI MEDICAL STORE                            |Customers Sundry Deb|        118.00|              
+IMS                                            |Suspense A/c        |              |      30000.00
+In Put CGST 14%                                |Purchase TAX CGST   |     161183.40|              
+In Put CGST 2.5%                               |Purchase TAX CGST   |     299641.68|              
+In Put CGST 6%                                 |Purchase TAX CGST   |   31912398.80|              
+In Put CGST 9%                                 |Purchase TAX CGST   |    5434207.56|              
+In Put IGST 12%                                |Purchase TAX IGST   |      51386.25|              
+In Put IGST 18%                                |Purchase TAX IGST   |              |       4773.46
+In Put IGST 28%                                |Purchase TAX IGST   |              |        127.32
+In Put SGST 14%                                |Purchase TAX SGST   |     161183.40|              
+In Put SGST 2.5%                               |Purchase TAX SGST   |     299641.68|              
+In Put SGST 6%                                 |Purchase TAX SGST   |   31910083.80|              
+In Put SGST 9%                                 |Purchase TAX SGST   |    5434207.56|              
+INDIAN DRUG HOUSE                              |Customers Sundry Deb|      22983.00|              
+INDIRA NAGAR MEDICAL CENTER                    |Customers Sundry Deb|       5970.00|              
+INSURANCE                                      |Suspense A/c        |    1175409.00|              
+INTEREST CANARA BANK                           |Customers Sundry Deb|    1692992.44|              
+INTREST SHIKHA RASTOGI                         |Customers Sundry Deb|      58650.00|              
+J K R ENTERPRISES                              |Customers Sundry Deb|              |         27.00
+J.H.PHARMA                                     |Customers Sundry Deb|              |        535.00
+J.K.PHARMA                                     |Customers Sundry Deb|      47742.00|              
+JAI DEVI PHARMA                                |Customers Sundry Deb|              |        280.00
+JAI HANUMAN MEDICALS                           |Customers Sundry Deb|              |      77897.00
+JAI MAHAKAL MEDICALS                           |Customers Sundry Deb|        453.00|              
+JAI MEDICAL STORE                              |Customers Sundry Deb|       1620.00|              
+JAISWAL MEDICAL STORE                          |Customers Sundry Deb|      53605.00|              
+--------------------------------------------------------------------------------------------------
+            C A R R Y   F O R W A R D -------->|                    |   89542122.67|    2542655.80
+--------------------------------------------------------------------------------------------------
+                                                                                          (P.T.O.)
+SUNNY AGENCIES                                                 (As On : 01/Apr/2023)
+Closing Balances                                                   Page No. :      7
+--------------------------------------------------------------------------------------------------
+Account                                        |Group               |   Closing(Dr)|   Closing(Cr)
+--------------------------------------------------------------------------------------------------
+        B R O U G H T   F O R W A R D -------->|                    |   89542122.67|    2542655.80
+JAISWAL MEDICAL STORE                          |Customers Sundry Deb|      35623.00|              
+JAISWAL MEDICAL STORE                          |Customers Sundry Deb|       3559.00|              
+JAISWAL PHARMA                                 |Customers Sundry Deb|              |        200.00
+JAL SAMBHARANTATHA  SEWA                       |Supplier Sundry Cred|      43125.00|              
+JANTA MEDICAL HALL                             |Customers Sundry Deb|          1.00|              
+JEEVAN DRISHTI HOSPITAL & REHABILATION CENTER  |Customers Sundry Deb|       4442.00|              
+JITENDRA MEDICAL STORE                         |Customers Sundry Deb|        530.00|              
+JSB LOGISTIC & TRAVELS                         |Customers Sundry Deb|       8516.00|              
+K.K.MEDICAL STORE                              |Customers Sundry Deb|       2980.00|              
+K.P.& SONS                                     |Customers Sundry Deb|      12445.00|              
+K.S.MEDICAL AGENCIES                           |Customers Sundry Deb|      82358.00|              
+KAMAAL MEDICAL STORE                           |Customers Sundry Deb|       1584.00|              
+KAMAL MEDICINES                                |Customers Sundry Deb|       1072.00|              
+KAMED AGENCY                                   |Customers Sundry Deb|       1476.00|              
+KAMLA MEDICALS                                 |Customers Sundry Deb|       3078.00|              
+KANHA PHARMA                                   |Customers Sundry Deb|      15489.00|              
+KAPIL PHARMA                                   |Customers Sundry Deb|      39340.00|              
+KAPOOR ENTERPRISES                             |Customers Sundry Deb|       5150.00|              
+KARAN PHARMA                                   |Customers Sundry Deb|      58269.00|              
+KASHERA & SONS                                 |Customers Sundry Deb|       8031.00|              
+KASODHAN MEDICAL STORE                         |Customers Sundry Deb|        133.00|              
+KHAN MEDICAL STORE                             |Customers Sundry Deb|              |          1.00
+KHAN MEDICINE AGENCY                           |Customers Sundry Deb|              |        208.00
+KHUSHBOO COSMATIC                              |Customers Sundry Deb|       1776.00|              
+KHUSHI PHARMA                                  |Customers Sundry Deb|              |        194.00
+KING AGENCY                                    |Customers Sundry Deb|              |         24.00
+KISHORE MEDICAL STORE                          |Customers Sundry Deb|       9638.00|              
+KISHORI LAL PRABHU DAYAL MEDICAL STORE         |Customers Sundry Deb|        244.00|              
+KOTAK MAHINDRA BANK                            |Bank Accounts       |              |    6827246.37
+KRIPALU AGENCIES                               |Supplier Sundry Cred|              |      30583.00
+KRISHNA CLINIC                                 |Customers Sundry Deb|        435.00|              
+KRISHNA MEDICAL STORE                          |Customers Sundry Deb|       3204.00|              
+KRISHNA MEDICAL STORE                          |Customers Sundry Deb|     124144.00|              
+KRISHNA PHARMA                                 |Customers Sundry Deb|              |          1.00
+KUMAR MEDICAL STORE                            |Customers Sundry Deb|        439.00|              
+KUMAR MEDICOS                                  |Customers Sundry Deb|              |      26199.00
+KUNAL PET CARE AIDS                            |Customers Sundry Deb|       6400.00|              
+KUNDAN MEDICALS                                |Customers Sundry Deb|         29.00|              
+LABOUR EXP.                                    |Suspense A/c        |       3960.00|              
+LAKSHYA MEDICAL STORE                          |Customers Sundry Deb|       2024.00|              
+LALIT MEDICO                                   |Customers Sundry Deb|        630.00|              
+Less Amt                                       |Suspense A/c        |              |       4194.24
+LHTC                                           |Customers Sundry Deb|       2029.00|              
+LIC AARUSH                                     |Misc. Expenses (ASSE|      59289.00|              
+LIC ARAYAN                                     |Misc. Expenses (ASSE|      54304.00|              
+LIC MEENU                                      |Misc. Expenses (ASSE|     140933.00|              
+LIC RAHUL                                      |Misc. Expenses (ASSE|      20900.00|              
+LIC RAJENDAR                                   |Suspense A/c        |       6598.00|              
+LIC SHIKHA                                     |Misc. Expenses (ASSE|     112535.00|              
+LIC SUNEET                                     |Misc. Expenses (ASSE|     169173.00|              
+LIC TANISH                                     |Misc. Expenses (ASSE|     350742.00|              
+LIC VINEET                                     |Misc. Expenses (ASSE|     193272.00|              
+LIFE MEDICO                                    |Customers Sundry Deb|       3255.00|              
+LLJK.PHARMACEUTICALS                           |Customers Sundry Deb|      43742.00|              
+LUCKNOW PHARMACY                               |Customers Sundry Deb|        908.00|              
+M.L.PHARMA                                     |Customers Sundry Deb|       2376.00|              
+M.PHARMA                                       |Customers Sundry Deb|      38301.00|              
+M.S.PHARMA                                     |Customers Sundry Deb|        118.00|              
+M.U.PHARMA                                     |Supplier Sundry Cred|              |      46620.00
+--------------------------------------------------------------------------------------------------
+            C A R R Y   F O R W A R D -------->|                    |   91220721.67|    9478126.41
+--------------------------------------------------------------------------------------------------
+                                                                                          (P.T.O.)
+SUNNY AGENCIES                                                 (As On : 01/Apr/2023)
+Closing Balances                                                   Page No. :      8
+--------------------------------------------------------------------------------------------------
+Account                                        |Group               |   Closing(Dr)|   Closing(Cr)
+--------------------------------------------------------------------------------------------------
+        B R O U G H T   F O R W A R D -------->|                    |   91220721.67|    9478126.41
+MAA BARAHI MEDICAL AGENCY                      |Customers Sundry Deb|        480.00|              
+MAA LAXMI PHARMACEUTICALS                      |Customers Sundry Deb|       7698.00|              
+MAA PHARMA                                     |Customers Sundry Deb|       1243.00|              
+MADHU MEDISALES                                |Customers Sundry Deb|      25015.00|              
+MAHADEV DRUG CENTER                            |Supplier Sundry Cred|      59499.00|              
+MAHARANI DISTRIBUTORS                          |Customers Sundry Deb|      31501.00|              
+MAHESH JOGI  POONAM                            |Suspense A/c        |      11000.00|              
+MALHOTRA AGENCIES                              |Customers Sundry Deb|        230.00|              
+MANISH KAPOOR                                  |Customers Sundry Deb|       2000.00|              
+MANISH MEDICAL AGENCY                          |Customers Sundry Deb|     217977.00|              
+MANJULA HOSPITAL & TRAUMA CENTRE               |Customers Sundry Deb|       2622.00|              
+MANOJ MEDICAL STORE                            |Supplier Sundry Cred|       6770.00|              
+MANOJ PHARMA                                   |Customers Sundry Deb|       2223.00|              
+MANYATA MEDICALS                               |Customers Sundry Deb|        452.00|              
+MASTER MEDICAL AGENCIES                        |Customers Sundry Deb|       6000.00|              
+MATHUR CLINIC                                  |Customers Sundry Deb|     263808.00|              
+MAX SURGICAL EQUIPMENTS                        |Customers Sundry Deb|              |          1.00
+MAYUR ENTERPRISES                              |Customers Sundry Deb|       3840.00|              
+MEDICINE HOUSE                                 |Customers Sundry Deb|      11279.00|              
+MEDICINE PLUS                                  |Customers Sundry Deb|       2540.00|              
+MEDISURE STOCKIST                              |Customers Sundry Deb|         38.00|              
+MEDLEY PHARMACEUTICALS LTD                     |Supplier Sundry Cred|      30505.00|              
+MISC                                           |Misc. Expenses (ASSE|              |       3780.23
+MISHRA MEDICAL STORE                           |Customers Sundry Deb|              |        218.00
+MISHRA MEDICAL STORE                           |Customers Sundry Deb|              |       4400.00
+MISHRA MEDICAL STORE                           |Customers Sundry Deb|              |        383.00
+MODERN MEDICAL HALL                            |Customers Sundry Deb|        320.00|              
+MOHAN SEWA HOSPITAL                            |Customers Sundry Deb|       5710.00|              
+MOTHER CARE HOISPITAL                          |Customers Sundry Deb|              |       2327.00
+MUKUL MEDICAL STORE-1                          |Customers Sundry Deb|       1000.00|              
+NAGAR NIGAM                                    |Customers Sundry Deb|      37719.00|              
+NANCY AGENCY                                   |Customers Sundry Deb|              |          1.00
+NARSINGH PHARMA & SURGICAL                     |Customers Sundry Deb|        180.00|              
+NATIONAL PHARMA AGENCY                         |Customers Sundry Deb|      44223.00|              
+NAV DURGA MEDICALS                             |Customers Sundry Deb|        888.00|              
+NAVED MEDICAL STORE                            |Customers Sundry Deb|          2.00|              
+NEW BHARAT MEDICAL STORE                       |Customers Sundry Deb|          4.00|              
+NEW CHEMICO CHIMIST                            |Customers Sundry Deb|      10470.00|              
+NEW DURGA MEDICAL STORE                        |Customers Sundry Deb|              |        170.00
+NEW OM MEDICAL STORE                           |Customers Sundry Deb|      17874.00|              
+NEW PRAKASH MEDICAL STORE                      |Customers Sundry Deb|              |       1249.00
+NEW SHAMA MEDICAL STORE                        |Customers Sundry Deb|       2908.00|              
+NEW SHIV MEDICAL AGENCIES                      |Customers Sundry Deb|      23520.00|              
+NEW UNIQUE AGENCY                              |Customers Sundry Deb|      90834.00|              
+NIKITA SINGH C/O SONIA                         |Customers Sundry Deb|      10000.00|              
+NISCHAY DRUG DE ADDICTION & PSYCHIATRIC CENTER |Customers Sundry Deb|       1220.00|              
+NOVELTY AGENCY                                 |Customers Sundry Deb|       8117.00|              
+O.B.PHARMACEUTICALS                            |Customers Sundry Deb|      44518.00|              
+OM MEDICAL AGENCY                              |Customers Sundry Deb|      35709.00|              
+OM SAI MEDICAL STORE                           |Customers Sundry Deb|        511.00|              
+OPEN.CASH                                      |Customers Sundry Deb|              |     350000.00
+Others Amount                                  |Suspense A/c        |              |        300.00
+Others Discount                                |Suspense A/c        |              |       2081.53
+Out Put CGST 14%                               |SALE TAX CGST       |              |     148101.90
+Out Put CGST 2.5%                              |SALE TAX CGST       |              |     312393.55
+Out Put CGST 6%                                |SALE TAX CGST       |              |   33275459.61
+Out Put CGST 9%                                |SALE TAX CGST       |              |    5686917.08
+Out Put IGST 12%                               |SALE TAX IGST       |              |      16168.86
+Out Put IGST 18%                               |SALE TAX IGST       |              |        132.43
+--------------------------------------------------------------------------------------------------
+            C A R R Y   F O R W A R D -------->|                    |   92243168.67|   49282210.60
+--------------------------------------------------------------------------------------------------
+                                                                                          (P.T.O.)
+SUNNY AGENCIES                                                 (As On : 01/Apr/2023)
+Closing Balances                                                   Page No. :      9
+--------------------------------------------------------------------------------------------------
+Account                                        |Group               |   Closing(Dr)|   Closing(Cr)
+--------------------------------------------------------------------------------------------------
+        B R O U G H T   F O R W A R D -------->|                    |   92243168.67|   49282210.60
+Out Put IGST 5%                                |SALE TAX IGST       |              |         23.20
+Out Put SGST 14%                               |SALE TAX SGST       |              |     148101.90
+Out Put SGST 2.5%                              |SALE TAX SGST       |              |     312393.55
+Out Put SGST 6%                                |SALE TAX SGST       |              |   33275459.61
+Out Put SGST 9%                                |SALE TAX SGST       |              |    5686917.08
+P.D.PHARMA                                     |Customers Sundry Deb|              |       1238.00
+P.K.PHARMA                                     |Customers Sundry Deb|              |       7400.00
+P.R.PHARMA                                     |Customers Sundry Deb|      46496.00|              
+PAL MEDICAL STORE                              |Customers Sundry Deb|              |       6953.00
+PAL MEDICAL STORE                              |Customers Sundry Deb|      43774.00|              
+PAL PHARMA                                     |Customers Sundry Deb|       8081.00|              
+PANDAY MEDICAL STORE                           |Customers Sundry Deb|              |         35.00
+PANDEY DRUG ENTERPRISES                        |Customers Sundry Deb|       2669.00|              
+PANDEY MEDICAL STORE                           |Customers Sundry Deb|       1000.00|              
+PANKAJ MEDICAL STORE                           |Customers Sundry Deb|      74556.00|              
+PARAMJEET EMPLOY                               |SalaryPayble        |        569.00|              
+PARIJAT ENTERPRISES                            |Customers Sundry Deb|      21284.00|              
+PASHUPATI MEDICAL AGENCIES                     |Customers Sundry Deb|       1761.00|              
+PATHAK PHARMA                                  |Customers Sundry Deb|              |         30.00
+PAWAN MEDICAL STORE                            |Sundry Debtors(Consi|      67404.00|              
+PAWAN MEDICAL STORE                            |Supplier Sundry Cred|        100.00|              
+PHARMA CHEM DISTRIBUTOR                        |Supplier Sundry Cred|              |       1305.00
+PHARMA TRADERS                                 |Supplier Sundry Cred|              |      38244.00
+PIRAMAL ENTERPRISES LIMITED                    |Supplier Sundry Cred|              |     429657.85
+PIRAMAL PHARMA LIMITED                         |Supplier Sundry Cred|      49857.00|              
+POONAM EMPLOY                                  |Customers Sundry Deb|      72134.00|              
+POPPY BARELLI                                  |Customers Sundry Deb|     445000.00|              
+POPULAR MEDICAL STORE                          |Customers Sundry Deb|       5063.00|              
+POPULAR MEDICAL STORE                          |Customers Sundry Deb|              |       3375.00
+PRABHU MEDICAL STORE                           |Supplier Sundry Cred|      23199.00|              
+PRABHUNATH PHARMA                              |Customers Sundry Deb|       2014.00|              
+PRADEEP'S PHARMA                               |Supplier Sundry Cred|              |     127747.00
+PRADHANMANTRI BHARTIYA JANAUSHADHI KENDRA      |Customers Sundry Deb|         62.00|              
+PRADHANMANTRI BHARTIYA JANAUSHADHI KENDRA      |Customers Sundry Deb|       1995.00|              
+PRADHANMANTRI BHARTIYA JANAUSHADHI KENDRA      |Customers Sundry Deb|       1293.00|              
+PRAKASH MEDICAL STORE                          |Customers Sundry Deb|        665.00|              
+PRAKASH MEDICAL STORE                          |Customers Sundry Deb|       1073.00|              
+PRAKASH MEDICALS                               |Customers Sundry Deb|          7.00|              
+PRASHANT PHARMA                                |Customers Sundry Deb|              |      17800.00
+PRATAP MEDICAL STORE                           |Customers Sundry Deb|        268.00|              
+PRATAP MEDICAL STORE                           |Customers Sundry Deb|     300000.00|              
+PREM MEDICAL AGENCY SITAPUR                    |Customers Sundry Deb|              |      24042.00
+PRINCE PHARMA                                  |Customers Sundry Deb|              |       2058.00
+PUBLIC MEDICAL AGENCY                          |Customers Sundry Deb|      73573.00|              
+Purchase                                       |Suspense A/c        |      32125.00|              
+PURCHASE A                                     |Customers Sundry Deb|              |      45005.00
+PURCHASE FAIZABAD                              |Customers Sundry Deb|      34707.00|              
+PURCHASE GKP                                   |Customers Sundry Deb|              |      19285.00
+PURI MEDICALS                                  |Customers Sundry Deb|      12240.00|              
+PUSHPA MEDICALS                                |Customers Sundry Deb|       9978.00|              
+R.K.MEDICAL STORE                              |Customers Sundry Deb|      31766.00|              
+R.K.MEDICO                                     |Customers Sundry Deb|         40.00|              
+R.K.PHARMA                                     |Customers Sundry Deb|     228527.00|              
+R.S.PHARMACY                                   |Customers Sundry Deb|        703.00|              
+RACHANA OVERSEIS INC                           |Customers Sundry Deb|              |         65.00
+RADHA PHARMA                                   |Supplier Sundry Cred|          1.00|              
+RADHEY MEDICAL STORE                           |Customers Sundry Deb|      18791.00|              
+RAGHUVANSH HOSPITAL                            |Customers Sundry Deb|       8354.00|              
+RAHUL RASTOGI                                  |Loans (Liability)   |              |        100.00
+--------------------------------------------------------------------------------------------------
+            C A R R Y   F O R W A R D -------->|                    |   93864297.67|   89429445.79
+--------------------------------------------------------------------------------------------------
+                                                                                          (P.T.O.)
+SUNNY AGENCIES                                                 (As On : 01/Apr/2023)
+Closing Balances                                                   Page No. :     10
+--------------------------------------------------------------------------------------------------
+Account                                        |Group               |   Closing(Dr)|   Closing(Cr)
+--------------------------------------------------------------------------------------------------
+        B R O U G H T   F O R W A R D -------->|                    |   93864297.67|   89429445.79
+RAJ MARKETING                                  |Customers Sundry Deb|      16233.00|              
+RAJ MEDICAL HALL                               |Customers Sundry Deb|       2068.00|              
+RAJ MEDICAL STORE                              |Customers Sundry Deb|        199.00|              
+RAJ MEDICAL STORE                              |Customers Sundry Deb|       1471.00|              
+RAJ MEDICAL STORE                              |Customers Sundry Deb|       7071.00|              
+RAJ MEDICALS                                   |Customers Sundry Deb|        787.00|              
+RAJ SHREE MEDICAL STORE                        |Customers Sundry Deb|        127.00|              
+RAJA AGENCIES                                  |Customers Sundry Deb|      14285.00|              
+RAJA TRADERS                                   |Customers Sundry Deb|              |      88801.00
+RAJDHANI HOSPITAL                              |Customers Sundry Deb|       8904.00|              
+RAJDHANI HOSPITAL                              |Customers Sundry Deb|       1064.00|              
+RAJENDAR EMPLOYE                               |Customers Sundry Deb|      72000.00|              
+RAKESH PHARMA                                  |Customers Sundry Deb|      60025.00|              
+RAM BABU MEDICAL STORE                         |Customers Sundry Deb|      39224.00|              
+RAMAN PHARMA                                   |Customers Sundry Deb|      22992.00|              
+RANJAN PHARMA                                  |Customers Sundry Deb|       1225.00|              
+RAYEEN MEDICAL HALL WS                         |Customers Sundry Deb|      22442.00|              
+RD SUNEET                                      |Investments         |              |       4102.00
+REKON SALES PVT LTD                            |Customers Sundry Deb|       8529.00|              
+REWETI PHARMA                                  |Customers Sundry Deb|       4448.00|              
+RIDDHI SIDDHI MEDICAL STORE                    |Customers Sundry Deb|       1243.00|              
+RISHITA MEDICAL STORE                          |Customers Sundry Deb|       7950.00|              
+RITU AND SONS                                  |Customers Sundry Deb|       3894.00|              
+ROUNAQ PHARMACEUTICALS                         |Customers Sundry Deb|          1.00|              
+Round Off                                      |Suspense A/c        |      14238.37|              
+ROYAL MEDICAL HALL                             |Customers Sundry Deb|              |        229.00
+RUCHI PHRAMACEUTICALS                          |Customers Sundry Deb|       1155.00|              
+RUDRA PHARMACEUTICALS                          |Customers Sundry Deb|       1333.00|              
+RUDRAKSH PHARMA                                |Customers Sundry Deb|       5404.00|              
+RUPESH                                         |Customers Sundry Deb|       3800.00|              
+S.B.PHARMA                                     |Customers Sundry Deb|              |        262.00
+S.D.PHARMA                                     |Customers Sundry Deb|              |        321.00
+S.K.MEDICAL AGENCY                             |Customers Sundry Deb|              |          1.00
+S.N.J.PHARMA AND SURGICALS                     |Supplier Sundry Cred|        775.00|              
+S.N.MEDICALS                                   |Customers Sundry Deb|       4104.00|              
+S.S.HOSPITAL                                   |Customers Sundry Deb|       2678.00|              
+SAFE WAY MEDICALS                              |Customers Sundry Deb|         11.00|              
+SAHAJ NURSING HOME                             |Customers Sundry Deb|              |        781.00
+SAI MEDICAL AGENCY                             |Customers Sundry Deb|       1119.00|              
+SAJID MEDICAL STORE                            |Customers Sundry Deb|      33568.00|              
+SAJID MEDICAL STORE BLOCK***********           |Customers Sundry Deb|              |         59.00
+SALARY                                         |SalaryPayble        |    3329497.00|              
+SAMEENA MEDICOSE                               |Customers Sundry Deb|       5009.00|              
+SAMREEN MEDICAL STORE                          |Customers Sundry Deb|              |         15.00
+SANDEEP MEDICAL AGENCY                         |Customers Sundry Deb|          6.00|              
+SANDEEP MEDICAL STORE                          |Customers Sundry Deb|     121719.00|              
+SANDEEP PHARMA                                 |Customers Sundry Deb|         49.00|              
+SANGAM HEALTH CARE                             |Customers Sundry Deb|        766.00|              
+SANGAM PHARMA                                  |Customers Sundry Deb|         24.00|              
+SANJAY MEDICAL AGENCY                          |Customers Sundry Deb|      40106.00|              
+SANJAY MEDICAL AGENCY                          |Customers Sundry Deb|        537.00|              
+SANJAY MEDICALS                                |Customers Sundry Deb|       5600.00|              
+SANJAY MEDICOSE                                |Customers Sundry Deb|              |        855.00
+SAPNA MEDICAL STORE                            |Customers Sundry Deb|       8041.00|              
+SARAL MEDICAL STORE                            |Customers Sundry Deb|       1014.00|              
+SARKAR TRADERS                                 |Customers Sundry Deb|       1242.00|              
+SATISH MEDICAL STORE                           |Customers Sundry Deb|        901.00|              
+SATISH PHRAMA                                  |Customers Sundry Deb|         93.00|              
+SAVICA PHARMACY                                |Customers Sundry Deb|       4847.00|              
+--------------------------------------------------------------------------------------------------
+            C A R R Y   F O R W A R D -------->|                    |   97748116.04|   89524871.79
+--------------------------------------------------------------------------------------------------
+                                                                                          (P.T.O.)
+SUNNY AGENCIES                                                 (As On : 01/Apr/2023)
+Closing Balances                                                   Page No. :     11
+--------------------------------------------------------------------------------------------------
+Account                                        |Group               |   Closing(Dr)|   Closing(Cr)
+--------------------------------------------------------------------------------------------------
+        B R O U G H T   F O R W A R D -------->|                    |   97748116.04|   89524871.79
+SAVITRI PHARMA                                 |Customers Sundry Deb|              |     230604.00
+SAXENA MEDICAL STORE                           |Customers Sundry Deb|       6154.00|              
+SAXENA MEDICAL STORE                           |Customers Sundry Deb|        210.00|              
+SAXENA NURSING HOME                            |Customers Sundry Deb|       1876.00|              
+SETH MEDICAL STORE                             |Customers Sundry Deb|        209.00|              
+SEVAK MEDICINE CENETR                          |Customers Sundry Deb|     141962.00|              
+SGST Payable                                   |Current Liabilities |              |       5460.72
+SHADI RAM & SONS                               |Customers Sundry Deb|              |       1800.00
+SHAILENDRA MEDICAL STORE                       |Customers Sundry Deb|      27915.00|              
+SHAKTI MEDICAL STORE                           |Customers Sundry Deb|      31124.00|              
+SHAMA MEDICAL STORE                            |Customers Sundry Deb|       2015.00|              
+SHAMSHAD MEDICAL AGENCY                        |Customers Sundry Deb|      86109.00|              
+SHANTA PHARMACEUTICALS                         |Customers Sundry Deb|              |        472.00
+SHANTI MEDICALS                                |Customers Sundry Deb|        748.00|              
+SHANTI MEDICOSE                                |Customers Sundry Deb|       2954.00|              
+SHANU COSMETICS                                |Customers Sundry Deb|       5000.00|              
+SHARDA PHARMA                                  |Customers Sundry Deb|              |         82.00
+SHARMA MEDICINES                               |Customers Sundry Deb|      16656.00|              
+SHASHI PHARMA                                  |Customers Sundry Deb|          2.00|              
+SHEKHAR HOSPITAL                               |Customers Sundry Deb|        966.00|              
+SHEKHAR MEDICAL STORE                          |Customers Sundry Deb|              |       1100.00
+SHINE MEDICAL AGENCY                           |Customers Sundry Deb|              |        186.00
+SHIPRA PHARMACHEUTICAL                         |Customers Sundry Deb|       1578.00|              
+SHIV ENTERPRISES                               |Customers Sundry Deb|      32429.00|              
+SHIV MEDICAL HALL                              |Customers Sundry Deb|              |        914.00
+SHIV MEDICALS                                  |Supplier Sundry Cred|              |      25217.00
+SHIV PHARMECY                                  |Customers Sundry Deb|       4413.00|              
+SHIV SAKHI MEDICALS                            |Customers Sundry Deb|      14669.00|              
+SHIVAM ENTERPRISES                             |Customers Sundry Deb|              |        429.00
+SHIVAM MEDICAL PHARMA                          |Customers Sundry Deb|              |        206.00
+SHIVANI MEDICAL STORE                          |Customers Sundry Deb|              |         20.00
+SHORADHA PHARMA                                |Customers Sundry Deb|     562642.00|              
+SHRADHANI ENTERPRIJEJ                          |Customers Sundry Deb|      27137.00|              
+SHRESTHA PHARMA                                |Customers Sundry Deb|              |          1.00
+SHUBH ANANDAM PHARMA                           |Customers Sundry Deb|      79224.00|              
+SHUBH PHARMACEUTICALS                          |Customers Sundry Deb|      37224.00|              
+SHUBHAM MALHOTRA MACMILLON                     |Customers Sundry Deb|              |       5598.00
+SHUBHAM MEDICAL AGENCY                         |Customers Sundry Deb|              |         20.00
+SHUBHAM MEDICALS                               |Customers Sundry Deb|         45.00|              
+SHUBHAM PHARMACY                               |Customers Sundry Deb|       1474.00|              
+SHUCHITA RETAIL (P) LTD                        |Customers Sundry Deb|      35202.00|              
+SHUKLA PHARMA                                  |Customers Sundry Deb|       8947.00|              
+SHYAM PHARMACEUTICALS                          |Customers Sundry Deb|          4.00|              
+SINGH ENTERPRISES                              |Customers Sundry Deb|      12624.00|              
+SINGH MEDICAL AGENCY                           |Customers Sundry Deb|         85.00|              
+SINGH MEDICAL STORE                            |Customers Sundry Deb|       5007.00|              
+SINGH MEDICAL STORE                            |Customers Sundry Deb|      76375.00|              
+SINGHAL AIRCONDITIONING                        |Customers Sundry Deb|      67763.00|              
+SINGHAL DISTRIBUTORS                           |Customers Sundry Deb|              |          1.00
+SONI MEDICAL STORE                             |Customers Sundry Deb|         73.00|              
+SONIA EMPLOY                                   |Supplier Sundry Cred|       6688.00|              
+SONU EMPLOY                                    |Customers Sundry Deb|       2500.00|              
+SOPAN RAMDAS GAIKR                             |Customers Sundry Deb|      11500.00|              
+SPARSH CHILDERNS HOSPITAL                      |Customers Sundry Deb|       1108.00|              
+SPARSH KLINIC-SKIN CARE                        |Customers Sundry Deb|              |       6525.00
+SRAVASTI MEDICAL AGENCY                        |Customers Sundry Deb|              |          1.00
+SRI AMAR AYURVED ASHRAM                        |Deposits (Asset)    |              |     117850.00
+SRI AMAR AYURVEDIC ASHRAM2                     |Deposits (Asset)    |     391280.00|              
+SRI AMAR AYURVEDIC ASHRAM3                     |Deposits (Asset)    |     284050.00|              
+--------------------------------------------------------------------------------------------------
+            C A R R Y   F O R W A R D -------->|                    |   99736057.04|   89921358.51
+--------------------------------------------------------------------------------------------------
+                                                                                          (P.T.O.)
+SUNNY AGENCIES                                                 (As On : 01/Apr/2023)
+Closing Balances                                                   Page No. :     12
+--------------------------------------------------------------------------------------------------
+Account                                        |Group               |   Closing(Dr)|   Closing(Cr)
+--------------------------------------------------------------------------------------------------
+        B R O U G H T   F O R W A R D -------->|                    |   99736057.04|   89921358.51
+SRI BAIDYANATH AYURVED BHAWAN PVT. LTD         |Customers Sundry Deb|              |     347309.00
+SRI BALA JI MEDICALS                           |Customers Sundry Deb|              |       6165.00
+SRI BALAJI MEDICAL AGENCIES                    |Customers Sundry Deb|        318.00|              
+SRI GANPATI ENTERPRISES                        |Customers Sundry Deb|      15601.00|              
+SRI KRISHNA PHARMA                             |Customers Sundry Deb|      27375.00|              
+SRI LOKESH PHARMA                              |Customers Sundry Deb|         63.00|              
+SRI MEDICOSE                                   |Customers Sundry Deb|       1400.00|              
+SRI NARAYANI TRADING COMPANY                   |Supplier Sundry Cred|              |       4571.00
+SRI PHARMACEUTICALS                            |Customers Sundry Deb|      18218.00|              
+SRI RADHEY ASSOCIATES                          |Customers Sundry Deb|       1461.00|              
+SRI RADHEY KRISHNA AYURVEDIC                   |Customers Sundry Deb|       3050.00|              
+SRI RADHEY PHARMA                              |Customers Sundry Deb|      52455.00|              
+SRI RAM HOSPITAL                               |Customers Sundry Deb|       2727.00|              
+SRI RAM JANAM BHOOMI                           |Customers Sundry Deb|      11000.00|              
+SRI RAM MEDICARE                               |Customers Sundry Deb|       1693.00|              
+SRI RAM PHARMA                                 |Customers Sundry Deb|        340.00|              
+SRI SATGURU MEDICINE                           |Customers Sundry Deb|              |          1.00
+SRI SHAKTI DRUG AGENCIES                       |Sundry Debtors(Consi|      29783.00|              
+SRI SHYAM ENTERPRISES                          |Supplier Sundry Cred|              |      41216.00
+SRI SHYAM MEDICAL STORE                        |Supplier Sundry Cred|       1269.00|              
+SRI TIRUPATI PHARMA                            |Customers Sundry Deb|       5878.00|              
+SRI VAISHNO PHARMACEUTICALS                    |Supplier Sundry Cred|       1767.00|              
+SRI VINAYAK MEDICAL HALL                       |Customers Sundry Deb|       7959.00|              
+SRISHTI PHARMA                                 |Customers Sundry Deb|      18436.00|              
+STANDARD MEDICAL HALL                          |Customers Sundry Deb|          1.00|              
+STAR PHARMA                                    |Customers Sundry Deb|      69211.00|              
+SUKHMANI AGENCIES                              |Customers Sundry Deb|          2.00|              
+SUNEET KUMAR RASTOGI                           |Cash-in-hand        |     912150.00|              
+SUNNY AGENCIES                                 |Loans & Advances (As|      30000.00|              
+SUNNY TRADERS                                  |Customers Sundry Deb|     297426.00|              
+SUNRISE MEDICAL PHARMECY                       |Customers Sundry Deb|        869.00|              
+SURYA AGENCY                                   |Customers Sundry Deb|        930.00|              
+SUSHIL EMPLOYE                                 |SalaryPayble        |       3622.00|              
+SUYASH MEDICALS                                |Customers Sundry Deb|       2256.00|              
+SWARAA MEDICAL STORE                           |Customers Sundry Deb|       2432.00|              
+SWAROOP AGENCIES                               |Customers Sundry Deb|      64559.00|              
+SWAROOP PHARMACEUTICALS                        |Customers Sundry Deb|     158988.00|              
+SWATI MEDICAL AGENCIES                         |Customers Sundry Deb|       3000.00|              
+SYNDICATE BANK                                 |Bank Accounts       |     719000.00|              
+SYNDICATE BANK NEW                             |Customers Sundry Deb|     194900.00|              
+SYNDICATE CANARA                               |Customers Sundry Deb|      84600.00|              
+TANISH RASTOGI                                 |Customers Sundry Deb|      59011.80|              
+TARUN MEDICAL STORE                            |Supplier Sundry Cred|       6202.00|              
+TAX RETURN                                     |Customers Sundry Deb|      30000.00|              
+TCS .75%                                       |Customers Sundry Deb|        366.50|              
+TELIPHONE BILLS                                |Supplier Sundry Cred|      51507.00|              
+THE HIMALAYA DRUG COMPANY                      |Supplier Sundry Cred|              |     223562.48
+TRAVELLING EXP                                 |Suspense A/c        |       3000.00|              
+TRIPATHI MEDICAL STORE                         |Customers Sundry Deb|       7400.00|              
+TRIPURARI MEDICAL AGENCY                       |Customers Sundry Deb|       1949.00|              
+UJJWAL PHARMA                                  |Customers Sundry Deb|     132188.00|              
+UMESH MEDICAL AGENCY                           |Customers Sundry Deb|         60.00|              
+UNIQUE PHARMA                                  |Customers Sundry Deb|      67514.00|              
+UNIQUE PHARMA                                  |Customers Sundry Deb|       8748.00|              
+V D S ENTERPRISES                              |Customers Sundry Deb|              |      64118.00
+V.L.ENTERPRISES                                |Customers Sundry Deb|      40000.00|              
+VAIBHAV MEDICOSE                               |Customers Sundry Deb|      21294.00|              
+VAISHNAVI AGENCIES                             |Customers Sundry Deb|              |      30767.00
+VAISHNAVI PHARMA                               |Customers Sundry Deb|              |       3318.00
+--------------------------------------------------------------------------------------------------
+            C A R R Y   F O R W A R D -------->|                    |  102910036.34|   90642385.99
+--------------------------------------------------------------------------------------------------
+                                                                                          (P.T.O.)
+SUNNY AGENCIES                                                 (As On : 01/Apr/2023)
+Closing Balances                                                   Page No. :     13
+--------------------------------------------------------------------------------------------------
+Account                                        |Group               |   Closing(Dr)|   Closing(Cr)
+--------------------------------------------------------------------------------------------------
+        B R O U G H T   F O R W A R D -------->|                    |  102910036.34|   90642385.99
+VAISHNAVI PHARMA                               |Customers Sundry Deb|      23168.00|              
+VAISHNO PHARMA                                 |Customers Sundry Deb|     170831.00|              
+VARDHMAN DRUG STORE                            |Customers Sundry Deb|              |      25118.00
+VARDHMAN PHARMACEUTICALS                       |Supplier Sundry Cred|              |      86674.00
+VAT TAX                                        |Current Liabilities |     163440.00|              
+VEERU PIRAMAL MEDICAL                          |Customers Sundry Deb|      10794.00|              
+VERBIANCE LIFESCIENCE PVT.LTD.                 |Customers Sundry Deb|              |     341804.00
+VERDMAN MEDICAL STORE                          |Supplier Sundry Cred|      51076.00|              
+VERMA MEDICAL CENTER                           |Customers Sundry Deb|       3234.00|              
+VERMA MEDICAL HALL                             |Customers Sundry Deb|       7137.00|              
+VIDHYANCHAL MEDICAL STORE                      |Customers Sundry Deb|              |      13787.00
+VIJAY MEDICAL STORES                           |Customers Sundry Deb|        342.00|              
+VIJJWAL MEDICALS                               |Customers Sundry Deb|       9579.00|              
+VIKAS C/O MEENU WEARS                          |Customers Sundry Deb|        395.00|              
+VIKRAM HOSPITAL C/O DR.SACHIN VERMA            |Customers Sundry Deb|       4477.00|              
+VIMAL MEDICAL AGENCIES                         |Customers Sundry Deb|       1513.00|              
+VIMAL MEDICAL STORE                            |Supplier Sundry Cred|       1693.00|              
+VIMLESH MEDICAL AGENCY                         |Customers Sundry Deb|          1.00|              
+VINAY SALES & MARKETING                        |Supplier Sundry Cred|      30885.00|              
+VINAYAK PHARMA                                 |Customers Sundry Deb|        238.00|              
+VINAYAK PHARMACEUTICALS                        |Customers Sundry Deb|       1534.00|              
+VINEET RASTOGI HOME LOAN A/C                   |Suspense A/c        |    1090000.00|              
+VINOD PHARMACEUTICALS DISTRIBUTORS             |Customers Sundry Deb|       8166.00|              
+VINOD PHARMACUTICALS                           |Customers Sundry Deb|      63936.00|              
+VINOD PHARMACY                                 |Customers Sundry Deb|       1588.00|              
+VIRAT DRUG & DISTRIBUTORS                      |Customers Sundry Deb|        236.00|              
+VISHAL MEDICINE &SURGICALS                     |Customers Sundry Deb|      16985.00|              
+VISHAL PHARMA                                  |Customers Sundry Deb|      10507.00|              
+VISWAKARMA MEDICAL STORE                       |Customers Sundry Deb|       4913.00|              
+VIVEK MEDICAL STORE                            |Customers Sundry Deb|       2148.00|              
+WALI MEDICAL STORE                             |Customers Sundry Deb|        839.00|              
+WESTERN DRUG AGENCY                            |Customers Sundry Deb|       3649.00|              
+WOMEN STORE                                    |Customers Sundry Deb|       1846.00|              
+YASHODA PHARMA                                 |Customers Sundry Deb|      13654.00|              
+ZAREEN MEDICALS                                |Customers Sundry Deb|        449.00|              
+--------------------------------------------------------------------------------------------------
+                                    GRAND TOTAL|                    |  104609289.34|   91109768.99
+--------------------------------------------------------------------------------------------------
+Trial Difference [Closing 13499520.35 Dr]
+ 
